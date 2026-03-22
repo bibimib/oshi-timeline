@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "id": "hololive-test-001",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【テスト】ホロライブ公式 新商品サンプル",
+    "url": "https://shop.hololivepro.com",
+    "price": "3300",
+    "image": "https://shop.hololivepro.com/cdn/shop/files/hololive_logo.png",
+    "discoveredAt": "2026-03-23T03:00:00Z",
+    "type": "shop"
+  },
+  {
+    "id": "holomatome-test-001",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【テスト】ホロライブグッズ情報まとめサンプル記事",
+    "url": "https://holoinfo.example.com",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-03-23T02:00:00Z",
+    "type": "info"
+  },
+  {
+    "id": "suisei-shop-test-001",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【テスト】FC限定Tシャツ サンプル",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/page/ec-top",
+    "price": "7500",
+    "image": null,
+    "discoveredAt": "2026-03-23T01:00:00Z",
+    "type": "shop"
+  },
+  {
+    "id": "suisei-news-test-001",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【テスト】ファンクラブ先行抽選受付のお知らせ",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/list",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-03-23T00:30:00Z",
+    "type": "news"
+  },
+  {
+    "id": "vspo-test-001",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "【テスト】ぶいすぽっ！コラボグッズ サンプル",
+    "url": "https://store.vspo.jp",
+    "price": "2750",
+    "image": null,
+    "discoveredAt": "2026-03-23T00:00:00Z",
+    "type": "shop"
+  }
+]
