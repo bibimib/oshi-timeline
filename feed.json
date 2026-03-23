@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9291947901148",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive English Spring Party! '26",
+    "url": "https://shop.hololivepro.com/products/hololiveen_springparty_2026",
+    "price": "1980",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_holoEN_SpringParty_26_banner_JP_2603010_ol_2.png?v=1773646972",
+    "discoveredAt": "2026-03-23T05:23:33.186Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-test-001",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
