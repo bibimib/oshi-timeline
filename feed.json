@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9266684461276",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive closet 古石ビジュー ペブルパジャマ衣装",
+    "url": "https://shop.hololivepro.com/products/kosekibijou_hololivecloset_pebblepajamasoutfit",
+    "price": "1760",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.11_thumbnail_banner_JP_02.png?v=1774268140",
+    "discoveredAt": "2026-03-25T02:47:45.305Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9266685575388",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
