@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9266678956252",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive closet シオリ・ノヴェラ パジャマ衣装",
+    "url": "https://shop.hololivepro.com/products/shiorinovella_hololivecloset_pajamasoutfit",
+    "price": "1760",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.11_thumbnail_banner_JP_01.png?v=1774267025",
+    "discoveredAt": "2026-03-25T02:47:45.864Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9266684461276",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
