@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-295a6020",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【発売中】星街すいせい スポーツ報知 2026年3月24日付",
+    "url": "https://merch-matome.com/sports-houchi260324/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-03-25T05:10:04.825Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-9266678956252",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
