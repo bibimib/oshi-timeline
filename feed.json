@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9266692686044",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive closet モココ・アビスガード FUWAMOCOパジャマ衣装",
+    "url": "https://shop.hololivepro.com/products/mococoabyssgard_hololivecloset_fuwamoconightynightwearoutfit",
+    "price": "1760",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.11_thumbnail_banner_JP_05.png?v=1774269924",
+    "discoveredAt": "2026-03-25T02:47:43.097Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8346767851707",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
