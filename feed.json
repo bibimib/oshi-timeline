@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9294049149148",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "アルランディス 新衣装記念2026",
+    "url": "https://shop.hololivepro.com/products/arurandeisu_newoutfit_2026",
+    "price": "11385",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Arurandeisu_OF_banner_JP_2603013_ol_2.png?v=1773794299",
+    "discoveredAt": "2026-03-26T11:10:12.797Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-4ee7184e",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
