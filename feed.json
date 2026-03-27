@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9301245919452",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "綺々羅々ヴィヴィ 50万人記念",
+    "url": "https://shop.hololivepro.com/products/kikiraravivi_subscribers_500k",
+    "price": "12870",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_kikiraravivi_500k_banner_JP_260326_ol_2.png?v=1774512618",
+    "discoveredAt": "2026-03-27T11:03:57.462Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9299575668956",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
