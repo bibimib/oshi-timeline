@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9299568328924",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Lovely Okaburi Mascot Series vol.4",
+    "url": "https://shop.hololivepro.com/products/hololive_lovelyokaburimascot_vol4",
+    "price": "2200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OkaburiMascot_vol4_banner_JP_260318_ol_2.png?v=1774227557",
+    "discoveredAt": "2026-03-27T09:26:42.781Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9294049149148",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
