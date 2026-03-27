@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9300866138332",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【再販】ホロライブ バレンタインボイス2025 ～秘密の告白～",
+    "url": "https://shop.hololivepro.com/products/hololive_valentinevoice2025_rerun",
+    "price": "43500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/02_Valentine_sVoice_banner02_250122_Resale.png?v=1774312351",
+    "discoveredAt": "2026-03-27T10:09:42.008Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9299568328924",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
