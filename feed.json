@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9302416621788",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブインドネシア3期生 4周年記念",
+    "url": "https://shop.hololivepro.com/products/hololiveid3rd_anniversary_4th",
+    "price": "2200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_ID3rd_4th_banner_JP_260326_ol_2.png?v=1774514974",
+    "discoveredAt": "2026-03-28T13:35:29.851Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9301015396572",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
