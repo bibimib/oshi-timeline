@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9301015396572",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "博衣こより 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/hakuikoyori_birthday_2026",
+    "price": "17600",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_hakuikoyori_birthday2026_banner_JP_260318_2.png?v=1774328523",
+    "discoveredAt": "2026-03-28T12:38:07.269Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9301245919452",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
