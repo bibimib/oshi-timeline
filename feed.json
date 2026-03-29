@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9264465150172",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【2次受注】小鳥遊キアラ 2nd Album『Vogelfrei』",
+    "url": "https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder",
+    "price": "3850",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/kiara_2nd_20260327_02.png?v=1774590229",
+    "discoveredAt": "2026-03-29T06:37:31.273Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-1190b2b9",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
