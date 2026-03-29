@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9303368859868",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "大空スバル 活動7周年記念",
+    "url": "https://shop.hololivepro.com/products/oozorasubaru_anniversary_7th",
+    "price": "12320",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OozoraSubaru_7th_banner_JP_260313_2.png?v=1774508394",
+    "discoveredAt": "2026-03-29T13:54:10.548Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9260140429532",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
