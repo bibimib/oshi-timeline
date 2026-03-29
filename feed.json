@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9303330160860",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "クリムゾン・ルーズ メモ：「飲み忘れるなよ。」グッズ",
+    "url": "https://shop.hololivepro.com/products/crimzonruze_memotakeyadamnpillsmerch",
+    "price": "14850",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_CrimzonRuze_don_tforget_banner_JP_260325_ol_2.png?v=1774485110",
+    "discoveredAt": "2026-03-29T03:25:41.854Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9302416621788",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
