@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9260140429532",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "夜十神封魔 活動4周年記念",
+    "url": "https://shop.hololivepro.com/products/yatogamifuma_anniversary_4th",
+    "price": "10780",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_YatogamiFuma_4th_banner_JP_260316_ol_2.png?v=1774336609",
+    "discoveredAt": "2026-03-29T11:46:46.518Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9264465150172",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
