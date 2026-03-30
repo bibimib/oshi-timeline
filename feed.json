@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9291927224540",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "AZKi「開拓の軌跡、未来へのリフレイン」ボイス",
+    "url": "https://shop.hololivepro.com/products/azki_pioneeringarefrainforthefuture_voice",
+    "price": "2500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260324_AZKi__2_jp.png?v=1773641004",
+    "discoveredAt": "2026-03-30T11:03:18.811Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9264262185180",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
