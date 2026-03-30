@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10013",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "新規ご入会時のメール遅延に伴う入会日変更対応について",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10013",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-03-30T11:43:53.700Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-9291927224540",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
