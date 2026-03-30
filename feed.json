@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9264262185180",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME English Edition Booster Pack \"Enchant Regalia\"",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp05e",
+    "price": "9516",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCGEN_4gatsu-item_banner_EN_260225.png?v=1774403475",
+    "discoveredAt": "2026-03-30T05:35:46.294Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9303368859868",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
