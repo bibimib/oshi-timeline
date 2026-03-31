@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8358860325051",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "ぬいすぽっ！mini",
+    "url": "https://store.vspo.jp/products/nuisupoplushies-mini",
+    "price": "3000",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/1_1_header_1.png?v=1774437164",
+    "discoveredAt": "2026-03-31T11:41:20.589Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10013",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
