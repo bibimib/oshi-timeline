@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9303456055516",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "AZKi『Re:Creating world』復刻盤",
+    "url": "https://shop.hololivepro.com/products/azki_recreatingworld_reissueedition",
+    "price": "3300",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260401_AZKi__2nd_01_SQJP.png?v=1774854975",
+    "discoveredAt": "2026-04-01T11:35:23.600Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9302444212444",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
