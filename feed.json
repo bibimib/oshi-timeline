@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-d241bde5",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】AZKi Without U (復刻盤)：26年7月1日発売",
+    "url": "https://merch-matome.com/azki-without-u-fukkoku/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-04-01T12:07:47.131Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-9274288734428",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
