@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9302444835036",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "スターティングボイス 風白ゆき",
+    "url": "https://shop.hololivepro.com/products/startingvoice_kazeshiroyuki",
+    "price": "1000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260401_holoAN_StartingVoice_KazeshiroYuki_2_jp.png?v=1774412808",
+    "discoveredAt": "2026-04-01T04:18:40.106Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8358860325051",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
