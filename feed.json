@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9266676007132",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "風真いろは まじかる☆ござるグッズ",
+    "url": "https://shop.hololivepro.com/products/kazamairoha_magicalgozaru",
+    "price": "14300",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_kazamairoha_aprilfools_banner_JP_260331_2.png?v=1774930262",
+    "discoveredAt": "2026-04-01T12:09:48.765Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-a5875c92",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
