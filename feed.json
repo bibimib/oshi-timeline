@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9267687751900",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "不知火フレア 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/shiranuiflare_birthday_2026",
+    "price": "21670",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_BC_banner_ShiranuiFlare_JP_260330_2.png?v=1774922380",
+    "discoveredAt": "2026-04-02T13:47:54.457Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8358860292283",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
