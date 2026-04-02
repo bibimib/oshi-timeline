@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8358860030139",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "花芽すみれ　誕生日記念2026",
+    "url": "https://store.vspo.jp/products/kagasumire-birthday2026",
+    "price": "7500",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/header_1_1_7e2de39a-890e-49d4-8a79-f0edb746295a.png?v=1774424854",
+    "discoveredAt": "2026-04-02T14:17:22.240Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9267687751900",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
