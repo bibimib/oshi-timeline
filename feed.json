@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9223528055004",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME スタートデッキ 推し Justice",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd13",
+    "price": "1980",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_2gatsu-item_banner_JP_260130_4.png?v=1769758762",
+    "discoveredAt": "2026-04-03T05:17:40.216Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8358860030139",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
