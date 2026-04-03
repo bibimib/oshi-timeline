@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8358860456123",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "VSPO! LOOK SEASON Vol.2　Accessories",
+    "url": "https://store.vspo.jp/products/season-vol-2-accessories",
+    "price": "3000",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/thumbnail_goodsset_29faa10d-aae0-493c-a024-b3fb433cf365.jpg?v=1774599840",
+    "discoveredAt": "2026-04-03T10:35:08.975Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9223528055004",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
