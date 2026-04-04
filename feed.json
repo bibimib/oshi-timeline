@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9266676367580",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "森カリオペ 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/moricalliope_birthday_2026",
+    "price": "19140",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_MoriCalliope_BC_banner_JP_260327_ol_2.png?v=1774929735",
+    "discoveredAt": "2026-04-04T12:53:17.524Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8358860423355",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
