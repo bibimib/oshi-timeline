@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10015",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【ファンクラブ2次先行抽選受付】 「HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar」",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10015",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-04-07T04:21:26.992Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-9266676367580",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
