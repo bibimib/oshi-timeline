@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10016",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Radio】#002「月面ひみつ基地」公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10016",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-04-08T09:55:47.542Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-8983062970588",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
