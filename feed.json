@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9304077107420",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Pop! Animation: hololive- さくらみこ",
+    "url": "https://shop.hololivepro.com/products/sakuramiko_popanimation",
+    "price": "2480",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260407_funko_1500_miko_JP.png?v=1775630361",
+    "discoveredAt": "2026-04-10T02:00:15.640Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9304077205724",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
