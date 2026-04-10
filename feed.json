@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9304077533404",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Pop! Animation: hololive- 小鳥遊キアラ",
+    "url": "https://shop.hololivepro.com/products/takanashikiara_popanimation",
+    "price": "2480",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260407_funko_1500_kiara_JP.png?v=1775630442",
+    "discoveredAt": "2026-04-10T02:00:13.670Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8358860390587",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
