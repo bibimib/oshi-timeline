@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9322326884572",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "獅白杯 × 大暮維人先生 コラボTシャツ",
+    "url": "https://shop.hololivepro.com/products/shishirobotan_shishirohaiohgreatcollaborationtshirt",
+    "price": "6600",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Shishirohai_collabT_banner_JP_260408_ol_2.png?v=1775710726",
+    "discoveredAt": "2026-04-11T04:33:33.444Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-63def303",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
