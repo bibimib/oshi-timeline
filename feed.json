@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8358860488891",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "VSPO! GEAR ゲーミングキーボード Ver.2",
+    "url": "https://store.vspo.jp/products/gear-vspo-gaming-keyboard-ver2",
+    "price": "240.00",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/header_1_1_71fd5f5e-5cda-41fc-88ee-570945f61057.png?v=1775705562",
+    "discoveredAt": "2026-04-13T11:09:36.630Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9275026931932",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
