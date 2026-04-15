@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9321662054620",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ アイドル活動ボイス",
+    "url": "https://shop.hololivepro.com/products/hololive_lifeasanidolvoice",
+    "price": "21000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260415___2_JP.png?v=1775701605",
+    "discoveredAt": "2026-04-15T09:43:30.445Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9323335581916",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
