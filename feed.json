@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-8965757337820",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME ブースターパック「キュリアスユニバース」",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp04",
+    "price": "5280",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_hBP04_banner_2_thumnail_JP_1_2.png?v=1748937540",
+    "discoveredAt": "2026-04-16T10:47:18.930Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9175868080348",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
