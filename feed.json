@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9317517525212",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME ライブスタートデッキ「儒烏風亭らでん」",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd15",
+    "price": "990",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_4gatsu-item_banner_JP_260402_ol_4.png?v=1775191737",
+    "discoveredAt": "2026-04-16T10:47:22.038Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-8706243690716",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
