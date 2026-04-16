@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-8827903246556",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME ブースターパック「クインテットスペクトラム」",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp02",
+    "price": "5280",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_CARDGAME_2_banner_JP_3.png?v=1732868432",
+    "discoveredAt": "2026-04-16T10:47:20.439Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-8909904740572",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
