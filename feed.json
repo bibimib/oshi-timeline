@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-8706243690716",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME ブースターパック「ブルーミングレディアンス」",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp01",
+    "price": "5280",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/01_booster_holo_CARDGAME.png?v=1724153539",
+    "discoveredAt": "2026-04-16T10:47:21.254Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-8827903246556",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
