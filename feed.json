@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-8909904740572",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME ブースターパック「エリートスパーク」",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp03",
+    "price": "5280",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_CARDGAME_hBP03_banner_JP_2.png?v=1740986015",
+    "discoveredAt": "2026-04-16T10:47:19.691Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-8965757337820",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
