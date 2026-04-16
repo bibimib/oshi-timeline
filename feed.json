@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9175868080348",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME ブースターパック「アヤカシヴァーミリオン」",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp06",
+    "price": "5280",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_12gatsu-item_banner_JP_251226_2.png?v=1764657149",
+    "discoveredAt": "2026-04-16T10:47:18.004Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8358860521659",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
