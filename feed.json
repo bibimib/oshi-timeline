@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9313112326364",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME オフィシャルホロカスリーブ vol.40〜vol.43",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_cardsleeve_vol40-43",
+    "price": "990",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_4gatsu-item_banner_JP_260402_ol_9.png?v=1775193953",
+    "discoveredAt": "2026-04-16T10:47:27.402Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9318905905372",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
