@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9329124606172",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ 日常ささやき「やさしく教えてくれる」ボイス",
+    "url": "https://shop.hololivepro.com/products/hololive_asmr_yourpatientteacher",
+    "price": "16000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260417_Your_20Patient_20Teache_JP_2.png?v=1776053257",
+    "discoveredAt": "2026-04-17T09:41:58.139Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-7e327bc0",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
