@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9282461925596",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Hoshimatic Project『BEEP BEEP』",
+    "url": "https://shop.hololivepro.com/products/hoshimaticproject_beepbeep",
+    "price": "1980",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/BEEP_EC_top_260407.png?v=1776069588",
+    "discoveredAt": "2026-04-17T12:37:09.507Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9272032592092",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
