@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10018",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Q&A】回答を公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10018",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-04-17T10:01:47.754Z",
+    "type": "news"
+  },
+  {
     "id": "holomatome-187cd358",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
