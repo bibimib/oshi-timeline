@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-73731",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "星街すいせい ロゴTシャツ(Echoes Baa ver.)",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-73731?ima=3957",
+    "price": "5000",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/c9d/2e1684c56c6c33de53f6d5bcb665a.jpg",
+    "discoveredAt": "2026-04-18T10:39:57.878Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9282461925596",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
