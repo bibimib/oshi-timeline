@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-73734",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "星街すいせい ロゴアクキー(Echoes Baa ver.)",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-73734?ima=3957",
+    "price": "1000",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/610/e8b508c871551ff8105e89afafe70.jpg",
+    "discoveredAt": "2026-04-18T10:39:59.906Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-73733",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
