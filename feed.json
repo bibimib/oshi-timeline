@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-73733",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "星街すいせい ロゴBigタオル(Echoes Baa ver.)",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-73733?ima=3957",
+    "price": "4000",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/ccc/26f9619dcb2ba199bfdf3a2d2fb84.jpg",
+    "discoveredAt": "2026-04-18T10:39:59.218Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-73732",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
