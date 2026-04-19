@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-0e4e6c19",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】ホロライブプロダクション ウエハース vol.6：26年8月発売",
+    "url": "https://merch-matome.com/wafers-vol6/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-04-19T23:59:49.071Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-9294245855452",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
