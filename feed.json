@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9294245855452",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive English -Justice- Girls’ Night",
+    "url": "https://shop.hololivepro.com/products/hololiveenjustice_girlsnight",
+    "price": "3300",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Girls_E2_80_99Night_banner_JP_260416_ol_2.png?v=1776318099",
+    "discoveredAt": "2026-04-19T23:28:02.721Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8358860751035",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
