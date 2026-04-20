@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9275045413084",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "音乃瀬奏 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/otonosekanade_birthday_2026",
+    "price": "16500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_BC_banner_Otonose_20Kanade_JP_260415_2.png?v=1776303880",
+    "discoveredAt": "2026-04-20T14:02:39.060Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-0e4e6c19",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
