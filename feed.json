@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9256674525404",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "フブミオロイヤルグッズ",
+    "url": "https://shop.hololivepro.com/products/fubumio_royalmerch",
+    "price": "19910",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_FbMoRoyalmerch_JP_260417_2.png?v=1776412323",
+    "discoveredAt": "2026-04-21T12:00:29.132Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9275045413084",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
