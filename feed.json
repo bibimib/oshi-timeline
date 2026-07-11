@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9489394958556",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【受注生産】IRyS 1st Concert “HOPE ||: Beyond the Stars”ライブグッズ",
+    "url": "https://shop.hololivepro.com/products/irys_1stconcert_hopebeyondthestars_madetoorder",
+    "price": "2090",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260711_IRyS1stConcert_jp_top_03.png?v=1783590259",
+    "discoveredAt": "2026-07-11T06:01:24.693Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8461848215739",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
