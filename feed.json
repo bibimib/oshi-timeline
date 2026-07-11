@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10044",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Radio】#006「サイコパス診断」公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10044",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-07-11T09:17:57.429Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-9486684717276",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
