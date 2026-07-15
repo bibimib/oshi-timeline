@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9499215102172",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "アイラニ・イオフィフティーン 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/airaniiofifteen_birthday_2026",
+    "price": "15180",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_AiraniIofifteen_BC_banner_JP_260707_2.png?v=1783584817",
+    "discoveredAt": "2026-07-15T15:25:31.584Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8461987086523",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
