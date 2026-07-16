@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9501661135068",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive RECORDS HISTORY COLLECTION",
+    "url": "https://shop.hololivepro.com/products/hololiverecords_historycollection",
+    "price": "17600",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260716_HISTORY_Banner01_SQ.png?v=1784108117",
+    "discoveredAt": "2026-07-16T07:01:15.815Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9499215102172",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
