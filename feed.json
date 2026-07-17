@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8480166281403",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "VSPO! LOOK CLIP 清楚三姉妹TEE",
+    "url": "https://store.vspo.jp/products/vspo-look-clip-seisosanshimai-tee",
+    "price": "5000",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/1_3cf527c0-635e-4d2d-bb0e-ce1289071207.png?v=1784261124",
+    "discoveredAt": "2026-07-17T09:47:02.979Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9501661135068",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
