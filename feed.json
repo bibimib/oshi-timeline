@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9514059301084",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "兎田ぺこら 活動7周年記念",
+    "url": "https://shop.hololivepro.com/products/usadapekora_anniversary_7th",
+    "price": "17930",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Usada_20Pekora_7th_banner_JP_260714_ol_2.png?v=1784085848",
+    "discoveredAt": "2026-07-17T14:26:21.854Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10050",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
