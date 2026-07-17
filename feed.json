@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8461989445819",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "VSPO! LOOK SEASON Vol.3",
+    "url": "https://store.vspo.jp/products/season-vol-3",
+    "price": "12000",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/ec_thumbnail_shirt.png?v=1783328835",
+    "discoveredAt": "2026-07-17T11:14:21.798Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10030",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
