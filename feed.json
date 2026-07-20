@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9489448272092",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ReGLOSS バケーショングッズ",
+    "url": "https://shop.hololivepro.com/products/regloss_vacationmerch",
+    "price": "3850",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_ReGLOSS_20Vacation_20Merch_banner_JP_260706_2.png?v=1783409178",
+    "discoveredAt": "2026-07-20T10:51:09.748Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8461988659387",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
