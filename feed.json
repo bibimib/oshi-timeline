@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9509558124764",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME エクストラブースター「サマー・ホログラム」",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_heb01",
+    "price": "5280",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_8gatsu-item_banner_JP_260625_ol_2.png?v=1784000881",
+    "discoveredAt": "2026-07-22T10:54:44.828Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9514080665820",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
