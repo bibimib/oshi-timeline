@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9511143080156",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ 日常ささやき「いっしょに作業」ボイス",
+    "url": "https://shop.hololivepro.com/products/hololive_asmr_coworkingwithyou",
+    "price": "16000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260723_Coworking_With_You_JP_02.png?v=1784174875",
+    "discoveredAt": "2026-07-23T09:38:55.116Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9509558124764",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
