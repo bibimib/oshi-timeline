@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-65dcba21",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】VTuberスタイル 2026年8月号/ 表紙・巻頭特集 桃鈴ねね",
+    "url": "https://merch-matome.com/vtuberstyle-202608/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-07-23T12:55:04.889Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-9489569513692",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
