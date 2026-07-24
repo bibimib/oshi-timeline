@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-f9b5527a",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】ねんどろいど IRyS：27年1月発売",
+    "url": "https://merch-matome.com/irys-nendo/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-07-24T04:43:03.163Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-9517476446428",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
