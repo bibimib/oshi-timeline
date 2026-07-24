@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9517476446428",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ねんどろいど IRyS",
+    "url": "https://shop.hololivepro.com/products/irys_nendoroid",
+    "price": "8900",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20269724_nendoroid_IRyS_sp_jp.jpg?v=1784619013",
+    "discoveredAt": "2026-07-24T03:44:13.260Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-65dcba21",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
