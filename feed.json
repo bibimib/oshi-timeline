@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9525898641628",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Regular Outfit ホロライブインドネシア アクリルスタンド",
+    "url": "https://shop.hololivepro.com/products/hololiveid_regularoutfit_acrylicstand",
+    "price": "1760",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_RO_as_banner_JP_260723_ol_1_id.png?v=1784797558",
+    "discoveredAt": "2026-07-24T10:50:13.750Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-8809496314076",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
