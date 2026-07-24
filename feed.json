@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9519474114780",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME オフィシャルホロカラバーマット EX vol.3~6",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_rubbermatex_vol3-6",
+    "price": "3000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_7gatsu-item_banner_JP_260710_1.png?v=1784256630",
+    "discoveredAt": "2026-07-24T08:45:51.544Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-f9b5527a",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
