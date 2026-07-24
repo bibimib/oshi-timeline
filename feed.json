@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9525794635996",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Regular Outfit ホロライブ 缶バッジ",
+    "url": "https://shop.hololivepro.com/products/hololive_regularoutfit_buttonbadge",
+    "price": "550",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_RO_badge_banner_JP_260723_ol_jp.png?v=1784788597",
+    "discoveredAt": "2026-07-24T10:50:16.792Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9525810069724",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
