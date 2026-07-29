@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9529470714076",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【2次販売】桃鈴ねね 1st Live 「花咲く＊ねねねねねねねね超開花！」ライブグッズ",
+    "url": "https://shop.hololivepro.com/products/momosuzunene_1stlive_riseupfullflourish_secondaryorder",
+    "price": "3850",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/E6_A1_83_E9_88_B4_E3_81_AD_E3_81_AD_E3_83_A9_E3_82_A4_E3_83_95_E3_82_99_E3_83_8F_E3_82_99_E3_83_8A_E3_83_BC_E6_AD_A3_E6_96_B9_E5_BD_A2_0728-05.png?v=1785230872",
+    "discoveredAt": "2026-07-29T14:35:14.998Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10051",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
