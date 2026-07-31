@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9535139152092",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "1/7 スケールフィギュア G.S.Collection 大神ミオ Date Style おでかけ衣装 Ver.",
+    "url": "https://shop.hololivepro.com/products/ookamimio_streetoutfit_datestyle",
+    "price": "22000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260731_Ookami_20Mio_DateStyle_1080_1080_jp.jpg?v=1785215730",
+    "discoveredAt": "2026-07-31T04:41:11.541Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10031",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
