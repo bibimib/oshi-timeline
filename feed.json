@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9534906007772",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ネリッサ・レイヴンクロフト 活動3周年記念",
+    "url": "https://shop.hololivepro.com/products/nerissaravencrofta_anniversary_3rd",
+    "price": "20790",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_NerissaRavencroft_3rd_banner_JP_0729_2.png?v=1785376500",
+    "discoveredAt": "2026-07-31T04:41:14.909Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9535129518300",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
