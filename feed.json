@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10052",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Radio】#007「平成リバイバル」公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10052",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-07-31T11:21:05.005Z",
+    "type": "news"
+  },
+  {
     "id": "holomatome-128e0837",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
