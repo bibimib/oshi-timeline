@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9536915341532",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "さくらみこ 2nd Album『Blooming Cinderella』通常盤",
+    "url": "https://shop.hololivepro.com/products/sakuramiko_2ndalbum_bloomingcinderella_regular",
+    "price": "3850",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260801_SakuraMiko_2ndAlbum_JP_SQ01.png?v=1785492833",
+    "discoveredAt": "2026-08-01T14:13:38.822Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-10e14110",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
