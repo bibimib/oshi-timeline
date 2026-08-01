@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9536785842396",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【先行発送】さくらみこ 2nd Live “Blooming Parade!!”ライブグッズ",
+    "url": "https://shop.hololivepro.com/products/sakuramiko_2ndlive_bloomingparade_advancedshipping",
+    "price": "12000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/miko2nd_EC_top_02_JP.png?v=1785415289",
+    "discoveredAt": "2026-08-01T14:13:40.825Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9536915341532",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
