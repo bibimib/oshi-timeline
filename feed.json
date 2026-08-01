@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-10e14110",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】さくらみこ ／ 2nd Album 『Blooming Cinderella』：26年10月14日発売",
+    "url": "https://merch-matome.com/blooming-cinderella/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-01T14:04:06.891Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-9538298020060",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
