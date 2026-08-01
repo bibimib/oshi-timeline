@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9538298020060",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ラプルイ 新衣装記念2026",
+    "url": "https://shop.hololivepro.com/products/la-lui_newoutfit_2026",
+    "price": "17600",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_La_2BLui_newoutfit2026_JP_260730_2.png?v=1785410261",
+    "discoveredAt": "2026-08-01T12:39:20.707Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10052",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
