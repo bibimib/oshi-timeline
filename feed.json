@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9537022296284",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ロボ子さん 1st Album『Jewel Memory』",
+    "url": "https://shop.hololivepro.com/products/robocosan_1stalbum_jewelmemory",
+    "price": "19800",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260802_Robocosan_1stAlbum_JP_SQ01.png?v=1785466856",
+    "discoveredAt": "2026-08-02T12:44:51.455Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9536785842396",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
