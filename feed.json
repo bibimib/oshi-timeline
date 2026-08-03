@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9480970371292",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "百鬼あやめ「お隣はあやめちゃんち」ASMRボイス",
+    "url": "https://shop.hololivepro.com/products/nakiriayame_asmr_yourneighborayamechan",
+    "price": "7000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260728_NakiriAyame_22YourNeighborAyame-chan_22ASMRVoicePack_2_jp.png?v=1782962701",
+    "discoveredAt": "2026-08-03T10:55:45.454Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9537022296284",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
