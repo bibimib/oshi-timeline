@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9538727543004",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【再販】ねんどろいど 夏色まつり",
+    "url": "https://shop.hololivepro.com/products/natsuiromatsuri_nendoroid_rerelease",
+    "price": "7200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260804_Nendoroid_20Natsuiro_20Matsuri_sp_jp.jpg?v=1785311507",
+    "discoveredAt": "2026-08-04T04:24:30.837Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9480970371292",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
