@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10054",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "夏季休業のお知らせ",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10054",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-04T04:55:00.368Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-9538727543004",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
