@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9543257882844",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive 3rd Generation Anniversary Parade -Celestial-",
+    "url": "https://shop.hololivepro.com/products/hololivegen3_anniversary_2026",
+    "price": "3850",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_3rdGen_AnniversaryParade2026_JP_260730_ol_2.png?v=1785480019",
+    "discoveredAt": "2026-08-05T10:00:12.297Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10032",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
