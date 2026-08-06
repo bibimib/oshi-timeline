@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9540942725340",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ ドキドキの極ボイス",
+    "url": "https://shop.hololivepro.com/products/hololive_makingyourheartracevoice",
+    "price": "6000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260806_MakingYourHeartRace_2_jp.png?v=1785395192",
+    "discoveredAt": "2026-08-06T09:13:18.738Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-8ce8356d",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
