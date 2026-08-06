@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9537080099036",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ ドキドキの極ボイス キービジュアルブロマイド",
+    "url": "https://shop.hololivepro.com/products/hololive_makingyourheartracevoice_photoprint",
+    "price": "300",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260806_MakingYourHeartRacePP_2_jp.png?v=1785731806",
+    "discoveredAt": "2026-08-06T09:13:20.425Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9540942725340",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
