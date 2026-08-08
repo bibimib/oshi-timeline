@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9547825152220",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "常闇トワ 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/tokoyamitowa_birthday_2026",
+    "price": "17050",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_TokoyamiTowa_BC_banner_JP_0730_ol_2.png?v=1785825005",
+    "discoveredAt": "2026-08-08T11:56:47.999Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9537080099036",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
