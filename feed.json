@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9550171406556",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "宝鐘マリン 活動7周年記念",
+    "url": "https://shop.hololivepro.com/products/houshoumarine_anniversary_7th",
+    "price": "20570",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_HoushouMarine_7th_banner_JP_260805_ol_2.png?v=1786081083",
+    "discoveredAt": "2026-08-11T13:53:02.696Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8487745519803",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
