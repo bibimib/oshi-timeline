@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8487746011323",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "ぶいすぽっ！夏休みボイス2026",
+    "url": "https://store.vspo.jp/products/natuyasumivoice2026",
+    "price": "700",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_f7e08d32-6939-472a-87ba-07df51ab8fc4.png?v=1785987628",
+    "discoveredAt": "2026-08-12T10:51:33.641Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9550171406556",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
