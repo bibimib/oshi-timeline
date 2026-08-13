@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10055",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar 神奈川公演 アップグレード追加受付",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10055",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-13T09:53:44.609Z",
+    "type": "news"
+  },
+  {
     "id": "holomatome-6f210169",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
