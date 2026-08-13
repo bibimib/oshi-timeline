@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-e21056fb",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】hololive OFFICIAL CARD GAME 2nd Anniversary Blooming Memories：26年9月18日発売",
+    "url": "https://merch-matome.com/2nd-blooming-memories/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-13T15:28:27.532Z",
+    "type": "info"
+  },
+  {
     "id": "suisei-news-10053",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
