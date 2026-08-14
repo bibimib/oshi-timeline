@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9527189930204",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【2次販売】【シリアルコードデジタル配布】hololive RECORDS HISTORY COLLECTION",
+    "url": "https://shop.hololivepro.com/products/hololiverecords_historycollection_secondaryorder",
+    "price": "17600",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260814_HistoryCollection_Secondary_01.png?v=1786602336",
+    "discoveredAt": "2026-08-14T04:29:54.850Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-e21056fb",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
