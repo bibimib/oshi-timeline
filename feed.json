@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9550222328028",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "獅白ぼたん 活動6周年記念",
+    "url": "https://shop.hololivepro.com/products/shishirobotan_anniversary_6th",
+    "price": "18920",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_Shishiro_20Botan_6th_JP_260807_2.png?v=1786332407",
+    "discoveredAt": "2026-08-14T11:35:56.204Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8487752007867",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
