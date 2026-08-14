@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-146ffeda",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【8/21予約開始】PalVerse Palé. ホロライブプロダクション 宝鐘マリン こぼ・かなえる：27年1月29日発売",
+    "url": "https://merch-matome.com/palverse-pale-marine-kobo/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-14T06:50:52.019Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-9527189930204",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
