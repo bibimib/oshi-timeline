@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9558521086172",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "白銀ノエル 活動7周年記念",
+    "url": "https://shop.hololivepro.com/products/shiroganenoel_anniversary_7th",
+    "price": "15180",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_ShiroganeNoeru_7th_banner_JP_260807_2.png?v=1786520929",
+    "discoveredAt": "2026-08-15T13:23:01.355Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-05408d25",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
