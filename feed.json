@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-85c27037",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【27年1月】グッズ予定まとめ",
+    "url": "https://merch-matome.com/goods-jan27/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-16T21:41:08.042Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-9558521086172",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
