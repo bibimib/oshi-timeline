@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9550827487452",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "NePoLaBo Anniversary Parade -Celestial-",
+    "url": "https://shop.hololivepro.com/products/nepolabo_anniversary_2026",
+    "price": "3850",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_NePoLaBo_AnniversaryParade2026_JP_260807_ol_2.png?v=1786364010",
+    "discoveredAt": "2026-08-17T13:02:03.048Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9558206120156",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
