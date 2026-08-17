@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9558206120156",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME 2nd Anniversary Celebration Set",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_2ndanniversarycelebrationset",
+    "price": "12100",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_2th_banner_JP_260805_2_2.png?v=1786338823",
+    "discoveredAt": "2026-08-17T08:01:56.378Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-85c27037",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
