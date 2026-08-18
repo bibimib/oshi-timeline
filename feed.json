@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9543392231644",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ 日常ささやき「キミを心配してくれる」ボイス",
+    "url": "https://shop.hololivepro.com/products/hololive_asmr_worriedaboutyou",
+    "price": "15000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260818_Worried_About_You_JP_02.png?v=1785488794",
+    "discoveredAt": "2026-08-18T09:06:45.083Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9547135025372",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-03-23T00:30:00Z",
     "type": "news"
-  },
-  {
-    "id": "vspo-test-001",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "【テスト】ぶいすぽっ！コラボグッズ サンプル",
-    "url": "https://store.vspo.jp",
-    "price": "2750",
-    "image": null,
-    "discoveredAt": "2026-03-23T00:00:00Z",
-    "type": "shop"
   }
 ]
