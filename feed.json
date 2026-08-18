@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9570626011356",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "IRyS 1st Concert “HOPE ||: Beyond the Stars” デジタルメッセージボード",
+    "url": "https://shop.hololivepro.com/products/irys_1stconcert_hopebeyondthestars_digitalmessageboard",
+    "price": "3000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/IRyS_messageboard_ec_thumbnail_1500x1500_01.png?v=1786601898",
+    "discoveredAt": "2026-08-18T07:09:13.881Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9550827487452",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
