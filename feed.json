@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9576412938460",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME ブースターパック「ボリュームヴォルテックス」",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp09",
+    "price": "5280",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_9gatsu-item_banner_JP_260807_2_2.png?v=1786953596",
+    "discoveredAt": "2026-08-19T10:10:57.337Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10033",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-03-23T02:00:00Z",
     "type": "info"
-  },
-  {
-    "id": "suisei-shop-test-001",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【テスト】FC限定Tシャツ サンプル",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/page/ec-top",
-    "price": "7500",
-    "image": null,
-    "discoveredAt": "2026-03-23T01:00:00Z",
-    "type": "shop"
   }
 ]
