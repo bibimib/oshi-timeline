@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10033",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Q&A】回答を公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10033",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-19T09:23:42.962Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-9543392231644",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-03-23T01:00:00Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-test-001",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【テスト】ファンクラブ先行抽選受付のお知らせ",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/list",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-03-23T00:30:00Z",
-    "type": "news"
   }
 ]
