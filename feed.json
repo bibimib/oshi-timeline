@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9573286445276",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME オフィシャルホロカケース vol.35〜vol.39",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_cardcase_vol35-39",
+    "price": "880",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_9gatsu-item_banner_JP_260807_2_3.png?v=1786953658",
+    "discoveredAt": "2026-08-19T10:11:02.267Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9573309939932",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "15500",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/05_thumbnail_8e6cf331-eba2-4394-961d-59ef00b747f8.png?v=1773651522",
     "discoveredAt": "2026-03-23T10:44:11.779Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9291947901148",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive English Spring Party! '26",
-    "url": "https://shop.hololivepro.com/products/hololiveen_springparty_2026",
-    "price": "1980",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_holoEN_SpringParty_26_banner_JP_2603010_ol_2.png?v=1773646972",
-    "discoveredAt": "2026-03-23T05:23:33.186Z",
     "type": "shop"
   }
 ]
