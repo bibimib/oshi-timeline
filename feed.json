@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-07ff8b2b",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】Zipper 2026年秋号 さくらみこ ポスター封入：26年9月30日発売",
+    "url": "https://merch-matome.com/zipper-2026-autumn/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-20T05:53:45.264Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-4e977dab",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "4000",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_MemberDesignSeries___T_dcbd82e9-db53-4fa3-9e02-7750d54074fd.png?v=1773651488",
     "discoveredAt": "2026-03-24T14:14:38.968Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8346767884475",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "ぶいすぽっ！スタートセット 銀城サイネ",
-    "url": "https://store.vspo.jp/products/startset-ginjosaine",
-    "price": "1800",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/0d4e0e7d0b46b9dc.png?v=1773908072",
-    "discoveredAt": "2026-03-24T10:41:54.760Z",
     "type": "shop"
   }
 ]
