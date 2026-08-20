@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9573105172700",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "大神ミオ 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/ookamimio_birthday_2026",
+    "price": "20900",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OokamiMio_BC_banner_JP_260817_ol_2.png?v=1787026165",
+    "discoveredAt": "2026-08-20T11:10:02.194Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-07ff8b2b",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "1760",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.11_thumbnail_banner_JP_05.png?v=1774269924",
     "discoveredAt": "2026-03-25T02:47:43.097Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8346767851707",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "【メンバーデザイン】おいすTシャツ【花芽すみれ】",
-    "url": "https://store.vspo.jp/products/memberdesign-oisut",
-    "price": "4000",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_MemberDesignSeries___T_dcbd82e9-db53-4fa3-9e02-7750d54074fd.png?v=1773651488",
-    "discoveredAt": "2026-03-24T14:14:38.968Z",
     "type": "shop"
   }
 ]
