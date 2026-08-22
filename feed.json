@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-e9d56b51",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】Vジャンプ 2026年11月号 / 大空スバル hololive OFFICIAL CARD GAME 付録：26年9月18日発売",
+    "url": "https://merch-matome.com/vjump-2611/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-22T15:42:52.997Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-36b8452d",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "1760",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.11_thumbnail_banner_JP_01.png?v=1774267025",
     "discoveredAt": "2026-03-25T02:47:45.864Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9266684461276",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive closet 古石ビジュー ペブルパジャマ衣装",
-    "url": "https://shop.hololivepro.com/products/kosekibijou_hololivecloset_pebblepajamasoutfit",
-    "price": "1760",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.11_thumbnail_banner_JP_02.png?v=1774268140",
-    "discoveredAt": "2026-03-25T02:47:45.305Z",
     "type": "shop"
   }
 ]
