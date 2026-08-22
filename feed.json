@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-36b8452d",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】VTuberスタイル 2026年9月号/ 表紙・巻頭特集 綺々羅々ヴィヴィ",
+    "url": "https://merch-matome.com/vtuberstyle-202609/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-22T08:54:30.618Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-9576685928668",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "1760",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.11_thumbnail_banner_JP_02.png?v=1774268140",
     "discoveredAt": "2026-03-25T02:47:45.305Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9266685575388",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive closet ネリッサ・レイヴンクロフト ナイトタイムプリンセス衣装",
-    "url": "https://shop.hololivepro.com/products/nerissaravencroft_hololivecloset_nighttimeprincessoutfit",
-    "price": "1760",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.11_thumbnail_banner_JP_03.png?v=1774269085",
-    "discoveredAt": "2026-03-25T02:47:44.618Z",
     "type": "shop"
   }
 ]
