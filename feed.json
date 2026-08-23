@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9573286379740",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ハコス・ベールズ 2nd Album『Mirror Mirror』",
+    "url": "https://shop.hololivepro.com/products/hakosbaelz_2ndalbum_mirrormirror",
+    "price": "12100",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260823_HakosBaelz_2ndAL_SQ_JP.jpg?v=1787148595",
+    "discoveredAt": "2026-08-23T04:05:00.922Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9576524447964",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-03-25T05:10:07.008Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-295a6020",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【発売中】星街すいせい スポーツ報知 2026年3月24日付",
-    "url": "https://merch-matome.com/sports-houchi260324/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-03-25T05:10:04.825Z",
     "type": "info"
   }
 ]
