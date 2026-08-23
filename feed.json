@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9576524447964",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ハコス・ベールズ 活動5周年記念",
+    "url": "https://shop.hololivepro.com/products/hakosbaelz_anniversary_5th",
+    "price": "20570",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_Hakos_20Baelz_5th_JP_260813_2.png?v=1786936362",
+    "discoveredAt": "2026-08-23T04:04:59.291Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-e9d56b51",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-03-25T05:10:04.825Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9266678956252",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive closet シオリ・ノヴェラ パジャマ衣装",
-    "url": "https://shop.hololivepro.com/products/shiorinovella_hololivecloset_pajamasoutfit",
-    "price": "1760",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.11_thumbnail_banner_JP_01.png?v=1774267025",
-    "discoveredAt": "2026-03-25T02:47:45.864Z",
-    "type": "shop"
   }
 ]
