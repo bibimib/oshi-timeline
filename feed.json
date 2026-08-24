@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9519744024796",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロドリ タペストリー メガスフィアver.",
+    "url": "https://shop.hololivepro.com/products/holodori_tapestry_megasphere",
+    "price": "4400",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260824_holodori_20Tapestry_JP01.png?v=1787212471",
+    "discoveredAt": "2026-08-24T14:11:08.133Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9519762079964",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "7500",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/HL_4m_junebride_voice_JP_SQ_5b375697-65d4-4288-8264-91d09740d317.png?v=1774232211",
     "discoveredAt": "2026-03-27T10:09:44.358Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9299847184604",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【再販】ホロライブ クリスマスボイス2025 ～ミラクル フォー Y♡U～",
-    "url": "https://shop.hololivepro.com/products/hololive_christmasvoice2025_resale",
-    "price": "7500",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/2025__JP_9def18c8-547d-4a7d-aa4c-a1acafc0c719.png?v=1774252176",
-    "discoveredAt": "2026-03-27T10:09:43.191Z",
     "type": "shop"
   }
 ]
