@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9519762079964",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロドリ ランダム缶バッジ メガスフィアver.",
+    "url": "https://shop.hololivepro.com/products/holodori_randombuttonbadge_megasphere",
+    "price": "5500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260824_holodori_20Random_20Button_20Badge_JP01.png?v=1787136532",
+    "discoveredAt": "2026-08-24T14:11:06.681Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9519711912156",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "7500",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/2025__JP_9def18c8-547d-4a7d-aa4c-a1acafc0c719.png?v=1774252176",
     "discoveredAt": "2026-03-27T10:09:43.191Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9300866138332",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【再販】ホロライブ バレンタインボイス2025 ～秘密の告白～",
-    "url": "https://shop.hololivepro.com/products/hololive_valentinevoice2025_rerun",
-    "price": "43500",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/02_Valentine_sVoice_banner02_250122_Resale.png?v=1774312351",
-    "discoveredAt": "2026-03-27T10:09:42.008Z",
     "type": "shop"
   }
 ]
