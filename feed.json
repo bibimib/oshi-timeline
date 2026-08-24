@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9519711912156",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロドリ アクリルパネル メガスフィアver.",
+    "url": "https://shop.hololivepro.com/products/holodori_acrylicpanel_megasphere",
+    "price": "4950",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260824_holodori_20Acrylic_20Panel_JP01.png?v=1787210566",
+    "discoveredAt": "2026-08-24T14:11:04.912Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9519752446172",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "43500",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/02_Valentine_sVoice_banner02_250122_Resale.png?v=1774312351",
     "discoveredAt": "2026-03-27T10:09:42.008Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9299568328924",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "Lovely Okaburi Mascot Series vol.4",
-    "url": "https://shop.hololivepro.com/products/hololive_lovelyokaburimascot_vol4",
-    "price": "2200",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OkaburiMascot_vol4_banner_JP_260318_ol_2.png?v=1774227557",
-    "discoveredAt": "2026-03-27T09:26:42.781Z",
     "type": "shop"
   }
 ]
