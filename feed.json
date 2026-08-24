@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9519767290076",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロドリ ミニホロメンアクリルスタンド メガスフィアver.",
+    "url": "https://shop.hololivepro.com/products/holodori_miniholomem_acrylicstand_megasphere",
+    "price": "14300",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260824_holodori_20Mini_20holomem_20Acrylic_20Stand_JP01.png?v=1787135412",
+    "discoveredAt": "2026-08-24T14:11:09.673Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9519744024796",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "12870",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_kikiraravivi_500k_banner_JP_260326_ol_2.png?v=1774512618",
     "discoveredAt": "2026-03-27T11:03:57.462Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9299575668956",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【再販】ホロライブ ジューンブライドボイス2025",
-    "url": "https://shop.hololivepro.com/products/hololive_junebridevoice2025_rerun",
-    "price": "7500",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/HL_4m_junebride_voice_JP_SQ_5b375697-65d4-4288-8264-91d09740d317.png?v=1774232211",
-    "discoveredAt": "2026-03-27T10:09:44.358Z",
     "type": "shop"
   }
 ]
