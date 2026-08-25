@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8487752073403",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "ソラリリコ　2周年記念2026",
+    "url": "https://store.vspo.jp/products/rikosolari-ani2nd",
+    "price": "9950",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/01_ECThumbnail_1.png?v=1787208682",
+    "discoveredAt": "2026-08-25T13:40:22.859Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8487751254203",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": "12320",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OozoraSubaru_7th_banner_JP_260313_2.png?v=1774508394",
     "discoveredAt": "2026-03-29T13:54:10.548Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9260140429532",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "夜十神封魔 活動4周年記念",
-    "url": "https://shop.hololivepro.com/products/yatogamifuma_anniversary_4th",
-    "price": "10780",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_YatogamiFuma_4th_banner_JP_260316_ol_2.png?v=1774336609",
-    "discoveredAt": "2026-03-29T11:46:46.518Z",
     "type": "shop"
   }
 ]
