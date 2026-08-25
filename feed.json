@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8487752040635",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "美暮ナリン　2周年記念2026",
+    "url": "https://store.vspo.jp/products/narinmikure-ani2nd",
+    "price": "10650",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/01_ECThumbnail_885d95ff-9ca8-44d5-a1fd-8b31843248a8.png?v=1787195748",
+    "discoveredAt": "2026-08-25T03:39:36.409Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9577351315676",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "14850",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_CrimzonRuze_don_tforget_banner_JP_260325_ol_2.png?v=1774485110",
     "discoveredAt": "2026-03-29T03:25:41.854Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9302416621788",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ホロライブインドネシア3期生 4周年記念",
-    "url": "https://shop.hololivepro.com/products/hololiveid3rd_anniversary_4th",
-    "price": "2200",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_ID3rd_4th_banner_JP_260326_ol_2.png?v=1774514974",
-    "discoveredAt": "2026-03-28T13:35:29.851Z",
     "type": "shop"
   }
 ]
