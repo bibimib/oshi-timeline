@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9577351315676",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "オーロ・クロニー 活動5周年記念",
+    "url": "https://shop.hololivepro.com/products/ourokronii_anniversary_5th",
+    "price": "19140",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OuroKronii_5th_banner_JP_0817_2.png?v=1787017740",
+    "discoveredAt": "2026-08-25T03:28:25.802Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8487751778491",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": "2200",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_ID3rd_4th_banner_JP_260326_ol_2.png?v=1774514974",
     "discoveredAt": "2026-03-28T13:35:29.851Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9301015396572",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "博衣こより 誕生日記念2026",
-    "url": "https://shop.hololivepro.com/products/hakuikoyori_birthday_2026",
-    "price": "17600",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_hakuikoyori_birthday2026_banner_JP_260318_2.png?v=1774328523",
-    "discoveredAt": "2026-03-28T12:38:07.269Z",
     "type": "shop"
   }
 ]
