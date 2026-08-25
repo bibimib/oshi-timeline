@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8487751254203",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "白波らむね　4周年記念2026",
+    "url": "https://store.vspo.jp/products/shiranamiramune-ani4th",
+    "price": "11900",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_b86bd39a-b2a0-4332-847d-857c1e0909ba.png?v=1786688439",
+    "discoveredAt": "2026-08-25T12:27:24.262Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9576660599004",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "10780",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_YatogamiFuma_4th_banner_JP_260316_ol_2.png?v=1774336609",
     "discoveredAt": "2026-03-29T11:46:46.518Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9264465150172",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【2次受注】小鳥遊キアラ 2nd Album『Vogelfrei』",
-    "url": "https://shop.hololivepro.com/products/takanashikiara_2ndalbum_vogelfrei_secondaryorder",
-    "price": "3850",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/kiara_2nd_20260327_02.png?v=1774590229",
-    "discoveredAt": "2026-03-29T06:37:31.273Z",
     "type": "shop"
   }
 ]
