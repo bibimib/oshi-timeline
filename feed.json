@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10062",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【追加リセール受付のお知らせ】 「HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar」神奈川公演",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10062",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-25T13:40:40.679Z",
+    "type": "news"
+  },
+  {
     "id": "vspo-8487752073403",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": "9516",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCGEN_4gatsu-item_banner_EN_260225.png?v=1774403475",
     "discoveredAt": "2026-03-30T05:35:46.294Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9303368859868",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "大空スバル 活動7周年記念",
-    "url": "https://shop.hololivepro.com/products/oozorasubaru_anniversary_7th",
-    "price": "12320",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OozoraSubaru_7th_banner_JP_260313_2.png?v=1774508394",
-    "discoveredAt": "2026-03-29T13:54:10.548Z",
     "type": "shop"
   }
 ]
