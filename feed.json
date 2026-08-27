@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10034",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Q&A】回答を公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10034",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-27T13:21:40.875Z",
+    "type": "news"
+  },
+  {
     "id": "suisei-news-10062",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "2500",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260324_AZKi__2_jp.png?v=1773641004",
     "discoveredAt": "2026-03-30T11:03:18.811Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9264262185180",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME English Edition Booster Pack \"Enchant Regalia\"",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp05e",
-    "price": "9516",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCGEN_4gatsu-item_banner_EN_260225.png?v=1774403475",
-    "discoveredAt": "2026-03-30T05:35:46.294Z",
     "type": "shop"
   }
 ]
