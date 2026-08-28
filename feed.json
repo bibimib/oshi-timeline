@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9581040730332",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブEnglish オーディオブック「朝霧を越え、温もりの曙」",
+    "url": "https://shop.hololivepro.com/products/hololiveen_audiobook_hatchingfromthehaze",
+    "price": "7000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260828_HatchingfromtheHaze_JP_2.png?v=1787276656",
+    "discoveredAt": "2026-08-28T12:42:36.899Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9583149154524",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/1_1_header_1.png?v=1774437164",
     "discoveredAt": "2026-03-31T11:41:20.589Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10013",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "新規ご入会時のメール遅延に伴う入会日変更対応について",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10013",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-03-30T11:43:53.700Z",
-    "type": "news"
   }
 ]
