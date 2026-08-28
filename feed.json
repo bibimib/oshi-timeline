@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-24b7ce14",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】ときのそら 活動9周年記念EP「CHECK！」【店舗特典まとめ】：26年11月4日発売",
+    "url": "https://merch-matome.com/check-sora/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-28T18:52:40.758Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-2379dc58",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "1000",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260401_holoAN_StartingVoice_HanazonoSayaka_2_jp.png?v=1774412539",
     "discoveredAt": "2026-04-01T04:18:41.143Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9302444835036",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "スターティングボイス 風白ゆき",
-    "url": "https://shop.hololivepro.com/products/startingvoice_kazeshiroyuki",
-    "price": "1000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260401_holoAN_StartingVoice_KazeshiroYuki_2_jp.png?v=1774412808",
-    "discoveredAt": "2026-04-01T04:18:40.106Z",
     "type": "shop"
   }
 ]
