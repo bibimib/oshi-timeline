@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10063",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Radio】#009「推し活現場ハック」公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10063",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-28T20:29:54.400Z",
+    "type": "news"
+  },
+  {
     "id": "holomatome-24b7ce14",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "1000",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260401_holoAN_StartingVoice_IzukiMichiru_2_jp.png?v=1774409790",
     "discoveredAt": "2026-04-01T04:18:41.929Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9302444474588",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "スターティングボイス 花園さやか",
-    "url": "https://shop.hololivepro.com/products/startingvoice_hanazonosayaka",
-    "price": "1000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260401_holoAN_StartingVoice_HanazonoSayaka_2_jp.png?v=1774412539",
-    "discoveredAt": "2026-04-01T04:18:41.143Z",
     "type": "shop"
   }
 ]
