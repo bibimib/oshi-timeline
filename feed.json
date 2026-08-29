@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9584171974876",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "FUWAMOCO 1st Album『FUWAMOCO à la mode ～いつだってあなたの笑顔を守るのッ～』",
+    "url": "https://shop.hololivepro.com/products/fuwamoco_1stalbum_fuwamocoalamode",
+    "price": "15400",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260829_FUWAMOCO_1stAL_SQ01_JP.jpg?v=1787821317",
+    "discoveredAt": "2026-08-29T15:22:26.868Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10063",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "3300",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260401_AZKi__2nd_01_SQJP.png?v=1774854975",
     "discoveredAt": "2026-04-01T11:35:23.600Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9302444212444",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "スターティングボイス 井月みちる",
-    "url": "https://shop.hololivepro.com/products/startingvoice_izukimichiru",
-    "price": "1000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260401_holoAN_StartingVoice_IzukiMichiru_2_jp.png?v=1774409790",
-    "discoveredAt": "2026-04-01T04:18:41.929Z",
     "type": "shop"
   }
 ]
