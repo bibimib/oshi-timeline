@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10065",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "「星詠み ぱじゃまぱーてぃー Vol.1」ダイジェスト映像配信スタート！ 「星詠み ぱじゃまぱーてぃー Vol.2」チケット先行スタート！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10065",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-30T14:06:35.873Z",
+    "type": "news"
+  },
+  {
     "id": "suisei-news-10067",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-04-01T12:07:47.986Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-d241bde5",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】AZKi Without U (復刻盤)：26年7月1日発売",
-    "url": "https://merch-matome.com/azki-without-u-fukkoku/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-01T12:07:47.131Z",
     "type": "info"
   }
 ]
