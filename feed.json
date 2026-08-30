@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9584181149916",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "カエラ・コヴァルスキア 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/kaelakovalskia_birthday_2026",
+    "price": "13420",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_BC_banner_Kaela_20Kovalskia_JP_260825_2.png?v=1787646426",
+    "discoveredAt": "2026-08-30T17:23:49.765Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79184",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "7500",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/header_1_1_7e2de39a-890e-49d4-8a79-f0edb746295a.png?v=1774424854",
     "discoveredAt": "2026-04-02T14:17:22.240Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9267687751900",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "不知火フレア 誕生日記念2026",
-    "url": "https://shop.hololivepro.com/products/shiranuiflare_birthday_2026",
-    "price": "21670",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_BC_banner_ShiranuiFlare_JP_260330_2.png?v=1774922380",
-    "discoveredAt": "2026-04-02T13:47:54.457Z",
     "type": "shop"
   }
 ]
