@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79181",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【FC会員限定】EYE MASK",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79181?ima=0014",
+    "price": "1200",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/bb5/24a809eda21e0fabdd3149946455f.jpg",
+    "discoveredAt": "2026-08-30T15:00:17.147Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79179",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "0",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/05_thumbnail_2_0bbfb2e2-c3d4-44f3-a11d-6dde0f4588e8.png?v=1774436673",
     "discoveredAt": "2026-04-01T16:01:48.110Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9266676007132",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "風真いろは まじかる☆ござるグッズ",
-    "url": "https://shop.hololivepro.com/products/kazamairoha_magicalgozaru",
-    "price": "14300",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_kazamairoha_aprilfools_banner_JP_260331_2.png?v=1774930262",
-    "discoveredAt": "2026-04-01T12:09:48.765Z",
     "type": "shop"
   }
 ]
