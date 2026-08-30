@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79182",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【FC会員限定】SLIPPERS",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79182?ima=0014",
+    "price": "4400",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/c2f/02648df391a675af0bddba8621358.jpg",
+    "discoveredAt": "2026-08-30T15:00:18.419Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79181",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "12000",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/05_thumbnail_2.png?v=1774435593",
     "discoveredAt": "2026-04-02T12:51:08.152Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8358860128443",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "花芽なずな　誕生日記念2026　直筆サイン入りポストカード抽選応募ページ",
-    "url": "https://store.vspo.jp/products/kaganazuna-birthday2026-postcard",
-    "price": "0",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/05_thumbnail_2_0bbfb2e2-c3d4-44f3-a11d-6dde0f4588e8.png?v=1774436673",
-    "discoveredAt": "2026-04-01T16:01:48.110Z",
     "type": "shop"
   }
 ]
