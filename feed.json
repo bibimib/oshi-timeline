@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79179",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【FC会員限定】PAJAMA SET",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79179?ima=0014",
+    "price": "12500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/ca3/71cbe8bccecea484755218ad93ddd.jpg",
+    "discoveredAt": "2026-08-30T15:00:15.475Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10065",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_kazamairoha_aprilfools_banner_JP_260331_2.png?v=1774930262",
     "discoveredAt": "2026-04-01T12:09:48.765Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-a5875c92",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】AZKi Re:Creating world (復刻盤)：26年7月1日発売",
-    "url": "https://merch-matome.com/azki-recreating-world-fukkoku/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-01T12:07:47.986Z",
-    "type": "info"
   }
 ]
