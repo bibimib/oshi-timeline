@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10066",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【ファンクラブ先行抽選受付】 星降る晩餐会",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10066",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-08-30T14:06:32.471Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-9584171974876",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "3300",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260401_AZKi__01SQJP.png?v=1774854990",
     "discoveredAt": "2026-04-01T11:35:24.886Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9303456055516",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "AZKi『Re:Creating world』復刻盤",
-    "url": "https://shop.hololivepro.com/products/azki_recreatingworld_reissueedition",
-    "price": "3300",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260401_AZKi__2nd_01_SQJP.png?v=1774854975",
-    "discoveredAt": "2026-04-01T11:35:23.600Z",
     "type": "shop"
   }
 ]
