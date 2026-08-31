@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9584135995612",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ「えー、彼女さんきびしー…」ASMRボイス",
+    "url": "https://shop.hololivepro.com/products/hololive_asmr_youmayhaveagirlfriend",
+    "price": "8600",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260821_hololive_YouMayHaveaGirlfriend_2_jp.jpg?v=1787637604",
+    "discoveredAt": "2026-08-31T14:09:12.869Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9583354872028",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "3000",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/thumbnail_goodsset_29faa10d-aae0-493c-a024-b3fb433cf365.jpg?v=1774599840",
     "discoveredAt": "2026-04-03T10:35:08.975Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9223528055004",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME スタートデッキ 推し Justice",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd13",
-    "price": "1980",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_2gatsu-item_banner_JP_260130_4.png?v=1769758762",
-    "discoveredAt": "2026-04-03T05:17:40.216Z",
     "type": "shop"
   }
 ]
