@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9583354872028",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "角巻わため おしまい屋さん3D化記念グッズ",
+    "url": "https://shop.hololivepro.com/products/tsunomakiwatame_oshimaiyasan3ddebutcelebration",
+    "price": "22000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_Tsunomaki_20Watame_oshimaimerch_JP_260824_ol_2.png?v=1787563959",
+    "discoveredAt": "2026-08-31T14:09:10.751Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9584181149916",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "1980",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_2gatsu-item_banner_JP_260130_4.png?v=1769758762",
     "discoveredAt": "2026-04-03T05:17:40.216Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8358860030139",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "花芽すみれ　誕生日記念2026",
-    "url": "https://store.vspo.jp/products/kagasumire-birthday2026",
-    "price": "7500",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/header_1_1_7e2de39a-890e-49d4-8a79-f0edb746295a.png?v=1774424854",
-    "discoveredAt": "2026-04-02T14:17:22.240Z",
     "type": "shop"
   }
 ]
