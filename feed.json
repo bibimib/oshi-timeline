@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9547244011740",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive Splash T-Party! 事後通販",
+    "url": "https://shop.hololivepro.com/products/hololive_hololivesplashtparty",
+    "price": "3850",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Splash_T_Party_banner_JP_260805_ol_2.png?v=1787791233",
+    "discoveredAt": "2026-09-01T12:47:43.407Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-7aefb194",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-04-07T04:21:26.992Z",
     "type": "news"
-  },
-  {
-    "id": "hololive-9266676367580",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "森カリオペ 誕生日記念2026",
-    "url": "https://shop.hololivepro.com/products/moricalliope_birthday_2026",
-    "price": "19140",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_MoriCalliope_BC_banner_JP_260327_ol_2.png?v=1774929735",
-    "discoveredAt": "2026-04-04T12:53:17.524Z",
-    "type": "shop"
   }
 ]
