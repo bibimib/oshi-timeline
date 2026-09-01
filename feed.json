@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9581181370588",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive Splash T-Party! キャラファインパネル",
+    "url": "https://shop.hololivepro.com/products/hololive_hololivesplashtparty_charafinepanel",
+    "price": "3520",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Splash_T_Party_banner_JP_260805_ol_28.png?v=1787303156",
+    "discoveredAt": "2026-09-01T12:47:45.011Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9547244011740",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-04-07T04:21:27.647Z",
-    "type": "news"
-  },
-  {
-    "id": "suisei-news-10015",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【ファンクラブ2次先行抽選受付】 「HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar」",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10015",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-07T04:21:26.992Z",
     "type": "news"
   }
 ]
