@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-7aefb194",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】ピクロス　儒烏風亭らでんがご案内！ピクセルミュージアム ―箱根探訪編 同梱版―",
+    "url": "https://merch-matome.com/raden-pixel-museum/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-09-01T11:51:37.735Z",
+    "type": "info"
+  },
+  {
     "id": "suisei-news-10068",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "19140",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_MoriCalliope_BC_banner_JP_260327_ol_2.png?v=1774929735",
     "discoveredAt": "2026-04-04T12:53:17.524Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8358860423355",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "VSPO! LOOK SEASON Vol.2",
-    "url": "https://store.vspo.jp/products/season-vol-2",
-    "price": "14000",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/thumbnail_tops_08f5bf74-8383-4d38-a3ab-1731dfa7ec8f.jpg?v=1774599189",
-    "discoveredAt": "2026-04-03T10:35:09.945Z",
     "type": "shop"
   }
 ]
