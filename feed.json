@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10069",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Black Hole】限定動画を公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10069",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-09-03T12:21:51.549Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-9588347306204",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/05_thumbnail_f066b0fd-ca63-4f73-b200-57ed78529d52.png?v=1775562459",
     "discoveredAt": "2026-04-08T16:09:57.032Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10016",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Radio】#002「月面ひみつ基地」公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10016",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-08T09:55:47.542Z",
-    "type": "news"
   }
 ]
