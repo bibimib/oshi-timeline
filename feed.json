@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-7350dfbb",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】청춘은 바로 지금!（青春はまさに今！）韓国 Summer MT POP UP グッズ 白上フブキ / 大神ミオ",
+    "url": "https://merch-matome.com/seishun-fubumio/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-09-04T09:47:41.553Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-3a27b28f",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "11.00",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/StarterSeries_AcrylicKeyHolder_1_1_header_1_69e8db63-d97d-41a4-bba1-a43cb0ea8299.png?v=1775014127",
     "discoveredAt": "2026-04-09T06:15:05.688Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8372658831547",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "VSPO! EN Starter Series - 缶バッジ",
-    "url": "https://store.vspo.jp/products/en-starterseries-badge",
-    "price": "6.99",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/StarterSeries_Badge_1_1_header_1_5ba603bf-d7f2-46cd-b24d-62be9df7c9ba.png?v=1775013776",
-    "discoveredAt": "2026-04-09T06:15:04.879Z",
     "type": "shop"
   }
 ]
