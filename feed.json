@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-c935b8a9",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【9/11予約開始】書籍『儒烏風亭らでん、芸術偏愛ことはじめ』：27年1月28日発売",
+    "url": "https://merch-matome.com/geijutsuhennai-raden/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-09-10T19:54:12.914Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-4ae9aefc",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-04-09T10:04:39.222Z",
     "type": "news"
-  },
-  {
-    "id": "vspo-8372660207803",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "VSPO! EN Team Jacket Series - メタリックポスター",
-    "url": "https://store.vspo.jp/products/en-teamjacket-metallicposter",
-    "price": "46.00",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/TeamJacket_EC_Poster_thumnail.png?v=1768874667",
-    "discoveredAt": "2026-04-09T06:15:08.855Z",
-    "type": "shop"
   }
 ]
