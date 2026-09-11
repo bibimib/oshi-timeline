@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-649bb4e2",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【27年3月】グッズ予定まとめ",
+    "url": "https://merch-matome.com/goods-mar27/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-09-11T06:16:51.052Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-c935b8a9",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/05_thumbnail_7b95f78e-76e9-4106-abdc-8fba33fd2ca5.png?v=1775191310",
     "discoveredAt": "2026-04-09T11:45:46.350Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10017",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Black Hole】限定動画を公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10017",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-09T10:04:39.222Z",
-    "type": "news"
   }
 ]
