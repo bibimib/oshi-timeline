@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-e6447b11",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【27年2月】グッズ予定まとめ",
+    "url": "https://merch-matome.com/goods-feb27/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-09-11T06:16:52.764Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-649bb4e2",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "2480",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260407_funko_1500_kiara_JP.png?v=1775630442",
     "discoveredAt": "2026-04-10T02:00:13.670Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8358860390587",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "蝶屋はなび　誕生日記念2026",
-    "url": "https://store.vspo.jp/products/choyahanabi-birthday2026",
-    "price": "125.00",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/05_thumbnail_7b95f78e-76e9-4106-abdc-8fba33fd2ca5.png?v=1775191310",
-    "discoveredAt": "2026-04-09T11:45:46.350Z",
     "type": "shop"
   }
 ]
