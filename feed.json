@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-6e079ada",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】博衣こより アルバム「Chemical Spark」26年12月2日発売",
+    "url": "https://merch-matome.com/koyori-chemical-spark/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-09-12T14:15:25.450Z",
+    "type": "info"
+  },
+  {
     "id": "vspo-8523968610491",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-04-10T03:45:17.737Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9304077107420",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "Pop! Animation: hololive- さくらみこ",
-    "url": "https://shop.hololivepro.com/products/sakuramiko_popanimation",
-    "price": "2480",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260407_funko_1500_miko_JP.png?v=1775630361",
-    "discoveredAt": "2026-04-10T02:00:15.640Z",
-    "type": "shop"
   }
 ]
