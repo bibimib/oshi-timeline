@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8487746699451",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "VSPO! GEAR+ キーボードケーブル",
+    "url": "https://store.vspo.jp/products/vspo-gear-keyboard-cable",
+    "price": "1200",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_Straighttype.png?v=1785824233",
+    "discoveredAt": "2026-09-15T08:10:12.461Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-66c4363d",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Shishirohai_collabT_banner_JP_260408_ol_2.png?v=1775710726",
     "discoveredAt": "2026-04-11T04:33:33.444Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-63def303",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】アニメイトフェア『ホロライブプロダクション ウエスタンキャラバン in animate 』オリジナルグッズ発売・アニメイトフェア開催",
-    "url": "https://merch-matome.com/western-caravan/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-10T08:05:34.168Z",
-    "type": "info"
   }
 ]
