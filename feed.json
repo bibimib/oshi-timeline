@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8523972673723",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "藍沢エマ　5周年記念2026　直筆サイン入りポストカード抽選応募ページ",
+    "url": "https://store.vspo.jp/products/aizawaema-ani5th-postcard",
+    "price": "0",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_6423c3d4-87a2-493c-9d5e-8a68bb0eb2b0.png?v=1788949537",
+    "discoveredAt": "2026-09-17T17:53:08.584Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-69cfe2d5",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "240.00",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/header_1_1_71fd5f5e-5cda-41fc-88ee-570945f61057.png?v=1775705562",
     "discoveredAt": "2026-04-13T11:09:36.630Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9275026931932",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ムーナ・ホシノヴァ 活動6周年記念",
-    "url": "https://shop.hololivepro.com/products/moonahoshinova_anniversary_6th",
-    "price": "22000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_Moona_20Hoshinova_6th_JP_260409_2.png?v=1775787406",
-    "discoveredAt": "2026-04-11T14:36:04.862Z",
     "type": "shop"
   }
 ]
