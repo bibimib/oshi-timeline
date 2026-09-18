@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8523978834107",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "藍沢エマ　5周年記念2026",
+    "url": "https://store.vspo.jp/products/aizawaema-ani5th",
+    "price": "14900",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_6423c3d4-87a2-493c-9d5e-8a68bb0eb2b0.png?v=1788949537",
+    "discoveredAt": "2026-09-18T12:29:18.916Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-80965466",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_KosekiBijou_BC_banner_JP_260413_ol_2.png?v=1776059056",
     "discoveredAt": "2026-04-15T04:15:08.557Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-6fdf1626",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【4/14〜】はるいろホロライブ × スイーツパラダイス コラボカフェ&グッズ",
-    "url": "https://merch-matome.com/sweet-paradise-haruiro/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-13T14:13:35.781Z",
-    "type": "info"
   }
 ]
