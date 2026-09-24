@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9621541257436",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "角巻わため 『リスポーン!!』",
+    "url": "https://shop.hololivepro.com/products/tsunomakiwatame_respawn",
+    "price": "1650",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260924_Watame_tieupCDbanner_01.png?v=1789715442",
+    "discoveredAt": "2026-09-24T06:08:50.576Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-83320c7f",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "5280",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_hBP04_banner_2_thumnail_JP_1_2.png?v=1748937540",
     "discoveredAt": "2026-04-16T10:47:18.930Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9175868080348",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME ブースターパック「アヤカシヴァーミリオン」",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp06",
-    "price": "5280",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_12gatsu-item_banner_JP_251226_2.png?v=1764657149",
-    "discoveredAt": "2026-04-16T10:47:18.004Z",
     "type": "shop"
   }
 ]
