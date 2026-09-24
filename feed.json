@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10076",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【ファンクラブ限定 2次抽選受付】 「星詠み ぱじゃまぱーてぃー Vol.2」",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10076",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-09-24T10:56:00.725Z",
+    "type": "news"
+  },
+  {
     "id": "holomatome-9ec4ecd8",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "5280",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_CARDGAME_2_banner_JP_3.png?v=1732868432",
     "discoveredAt": "2026-04-16T10:47:20.439Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-8909904740572",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME ブースターパック「エリートスパーク」",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp03",
-    "price": "5280",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_CARDGAME_hBP03_banner_JP_2.png?v=1740986015",
-    "discoveredAt": "2026-04-16T10:47:19.691Z",
     "type": "shop"
   }
 ]
