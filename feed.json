@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8523981815995",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "八雲べに　誕生日記念2026　直筆サイン入りポストカード抽選応募ページ",
+    "url": "https://store.vspo.jp/products/yakumobeni-birthday2026-postcard",
+    "price": "0",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_5d09fd55-7d9b-401c-8bd0-d8a83b7b3bac.png?v=1789381241",
+    "discoveredAt": "2026-09-24T18:03:54.028Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8524029722811",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": "990",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_4gatsu-item_banner_JP_260402_ol_5.png?v=1775191737",
     "discoveredAt": "2026-04-16T10:47:22.717Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9317517525212",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME ライブスタートデッキ「儒烏風亭らでん」",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd15",
-    "price": "990",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_4gatsu-item_banner_JP_260402_ol_4.png?v=1775191737",
-    "discoveredAt": "2026-04-16T10:47:22.038Z",
     "type": "shop"
   }
 ]
