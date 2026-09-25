@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8523983454395",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "八雲べに　誕生日記念2026",
+    "url": "https://store.vspo.jp/products/yakumobeni-birthday2026",
+    "price": "11900",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_5d09fd55-7d9b-401c-8bd0-d8a83b7b3bac.png?v=1789381241",
+    "discoveredAt": "2026-09-25T15:40:18.128Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8523985289403",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-04-17T09:52:15.737Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9313395704028",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ホロライブ 日常ささやき「やさしく教えてくれる」ボイス 5月カレンダーブロマイド",
-    "url": "https://shop.hololivepro.com/products/hololive_yourpatientteacher_maycalendar",
-    "price": "300",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260417_YourPatientTeacheMayCalendarPhotoCard_JP_2.png?v=1775201130",
-    "discoveredAt": "2026-04-17T09:41:59.183Z",
-    "type": "shop"
   }
 ]
