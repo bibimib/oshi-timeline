@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9628428763356",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "スターティングボイス 熱千めら",
+    "url": "https://shop.hololivepro.com/products/startingvoice_achichimela",
+    "price": "1000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260925_hololive_StartingVoice_AchichiMela_2_jp.png?v=1790246467",
+    "discoveredAt": "2026-09-25T15:26:25.157Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9628435218652",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260417_Your_20Patient_20Teache_JP_2.png?v=1776053257",
     "discoveredAt": "2026-04-17T09:41:58.139Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-7e327bc0",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】Holoearth Days! A Tale Side:W ウェスタdeクッキング -幸せのルセット- 第2巻：26年6月5日発売",
-    "url": "https://merch-matome.com/holoearth-days-a-tale-sidew-02/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-17T08:10:21.504Z",
-    "type": "info"
   }
 ]
