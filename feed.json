@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9628435218652",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "スターティングボイス 鈴鳴つづり",
+    "url": "https://shop.hololivepro.com/products/startingvoice_suzunatsuzuri",
+    "price": "1000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260925_hololive_StartingVoice_SuzunaTsuzuri_2_jp.png?v=1789714014",
+    "discoveredAt": "2026-09-25T15:26:23.947Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9628438036700",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-04-17T08:10:21.504Z",
     "type": "info"
-  },
-  {
-    "id": "vspo-8358860652731",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "小雀とと　7周年記念2026　直筆サイン入りポストカード抽選応募ページ",
-    "url": "https://store.vspo.jp/products/kogaratoto-ani7th-postcard",
-    "price": "0.00",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/EC07_7__05top_4eb12247-ef09-4532-b8ab-92219c0271e9.png?v=1776065473",
-    "discoveredAt": "2026-04-16T15:19:21.705Z",
-    "type": "shop"
   }
 ]
