@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-a0adc7fb",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【近日予約開始】hololive OFFICIAL CARD GAME オフィシャルホロカケース・オフィシャルホロカスリーブ アキ・ローゼンタール / 獅白ぼたん / アユンダ・リス / 一条莉々華 / 儒烏風亭らでん：26年12月18日発売",
+    "url": "https://merch-matome.com/holoca-supply14/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-09-25T22:34:11.994Z",
+    "type": "info"
+  },
+  {
     "id": "vspo-8523983454395",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-04-17T10:01:47.754Z",
     "type": "news"
-  },
-  {
-    "id": "holomatome-187cd358",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】Holoearth Chronicles Side:E ヤマト神想怪異譚 第4巻：26年6月5日発売",
-    "url": "https://merch-matome.com/holoearth-chronicles-sidee-04/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-17T09:52:15.737Z",
-    "type": "info"
   }
 ]
