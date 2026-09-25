@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-94b0c8d4",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】月刊ガンダムエース 2026年11月号：26年9月26日発売",
+    "url": "https://merch-matome.com/gundamace2611/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-09-25T08:01:45.388Z",
+    "type": "info"
+  },
+  {
     "id": "vspo-8523981815995",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": "990",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_4gatsu-item_banner_JP_260402_ol_7.png?v=1775191737",
     "discoveredAt": "2026-04-16T10:47:23.461Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9317517557980",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME ライブスタートデッキ「さくらみこ」",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd16",
-    "price": "990",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_4gatsu-item_banner_JP_260402_ol_5.png?v=1775191737",
-    "discoveredAt": "2026-04-16T10:47:22.717Z",
     "type": "shop"
   }
 ]
