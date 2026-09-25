@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9628438036700",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "スターティングボイス 百灯キョーコ",
+    "url": "https://shop.hololivepro.com/products/startingvoice_hyakutokyoko",
+    "price": "1000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260925_hololive_StartingVoice_HyakutoKyoko_2_jp.png?v=1789714060",
+    "discoveredAt": "2026-09-25T15:26:22.235Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9628646441180",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "0.00",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/EC07_7__05top_4eb12247-ef09-4532-b8ab-92219c0271e9.png?v=1776065473",
     "discoveredAt": "2026-04-16T15:19:21.705Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8358860587195",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "八雲べに　5周年記念2026",
-    "url": "https://store.vspo.jp/products/yakumobeni-ani5th",
-    "price": "91.00",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/header1_1.jpg?v=1776065575",
-    "discoveredAt": "2026-04-16T13:07:28.523Z",
     "type": "shop"
   }
 ]
