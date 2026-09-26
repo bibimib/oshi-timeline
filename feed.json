@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9628377809116",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "FUWAMOCO 活動3周年記念",
+    "url": "https://shop.hololivepro.com/products/fuwamoco_anniversary_3rd",
+    "price": "22000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_FUWAMOCO_3rd_banner_JP_0827_2.png?v=1789707667",
+    "discoveredAt": "2026-09-26T05:35:46.746Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-a0adc7fb",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/EC07_7__05top.png?v=1775651171",
     "discoveredAt": "2026-04-17T11:42:46.384Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10018",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Q&A】回答を公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10018",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-17T10:01:47.754Z",
-    "type": "news"
   }
 ]
