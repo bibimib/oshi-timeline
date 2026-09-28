@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8524022972603",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "Xross Stars オフィシャルスリーブ vol.14『如月れん』",
+    "url": "https://store.vspo.jp/products/xross-stars-officialgoods261030-01",
+    "price": "990",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/EC__BP02___1A.png?v=1789629418",
+    "discoveredAt": "2026-09-28T22:20:53.888Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8524024643771",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_BC_banner_Otonose_20Kanade_JP_260415_2.png?v=1776303880",
     "discoveredAt": "2026-04-20T14:02:39.060Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-0e4e6c19",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】ホロライブプロダクション ウエハース vol.6：26年8月発売",
-    "url": "https://merch-matome.com/wafers-vol6/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-04-19T23:59:49.071Z",
-    "type": "info"
   }
 ]
