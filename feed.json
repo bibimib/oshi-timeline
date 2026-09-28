@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9626635600092",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【先行発送】Hakos Baelz 1st Concert “REGALIA”ライブグッズ",
+    "url": "https://shop.hololivepro.com/products/hakosbaelz_1stconcert_regalia_advancedshipping",
+    "price": "10200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260928_HakosBaelz_REGALIA_JP_01.png?v=1790333092",
+    "discoveredAt": "2026-09-28T15:24:00.668Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9628287729884",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "1000",
     "image": "https://hoshimachi-suisei-fc.jp/images/102/610/e8b508c871551ff8105e89afafe70.jpg",
     "discoveredAt": "2026-04-18T10:39:59.906Z",
-    "type": "shop"
-  },
-  {
-    "id": "suisei-shop-SSZS-73733",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "星街すいせい ロゴBigタオル(Echoes Baa ver.)",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-73733?ima=3957",
-    "price": "4000",
-    "image": "https://hoshimachi-suisei-fc.jp/images/102/ccc/26f9619dcb2ba199bfdf3a2d2fb84.jpg",
-    "discoveredAt": "2026-04-18T10:39:59.218Z",
     "type": "shop"
   }
 ]
