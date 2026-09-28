@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9624077893852",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ「秋のご褒美を、キミと。」ボイス",
+    "url": "https://shop.hololivepro.com/products/hololive_audiostory_autumnsbounties",
+    "price": "9000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260918_Autumn_27sBounties_JP_2_png.png?v=1789530263",
+    "discoveredAt": "2026-09-28T07:10:43.430Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-75f53103",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "800",
     "image": "https://hoshimachi-suisei-fc.jp/images/102/1fd/2cee05d38c55d358457c6691808fe.jpg",
     "discoveredAt": "2026-04-18T10:39:58.610Z",
-    "type": "shop"
-  },
-  {
-    "id": "suisei-shop-SSZS-73731",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "星街すいせい ロゴTシャツ(Echoes Baa ver.)",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-73731?ima=3957",
-    "price": "5000",
-    "image": "https://hoshimachi-suisei-fc.jp/images/102/c9d/2e1684c56c6c33de53f6d5bcb665a.jpg",
-    "discoveredAt": "2026-04-18T10:39:57.878Z",
     "type": "shop"
   }
 ]
