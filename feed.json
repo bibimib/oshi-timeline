@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9626596311260",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブパニック グッズ",
+    "url": "https://shop.hololivepro.com/products/hololivepanic_merch",
+    "price": "2640",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_holopanic_banner_JP_260914_ol_01.png?v=1790232180",
+    "discoveredAt": "2026-09-28T15:24:02.167Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9626635600092",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "1200",
     "image": "https://hoshimachi-suisei-fc.jp/images/102/63e/ce1934a35d341782f43d5601c0f6a.jpg",
     "discoveredAt": "2026-04-18T10:40:00.511Z",
-    "type": "shop"
-  },
-  {
-    "id": "suisei-shop-SSZS-73734",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "星街すいせい ロゴアクキー(Echoes Baa ver.)",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-73734?ima=3957",
-    "price": "1000",
-    "image": "https://hoshimachi-suisei-fc.jp/images/102/610/e8b508c871551ff8105e89afafe70.jpg",
-    "discoveredAt": "2026-04-18T10:39:59.906Z",
     "type": "shop"
   }
 ]
