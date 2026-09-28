@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-8524024643771",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "Xross Stars オフィシャルスリーブ vol.15『蝶屋はなび』",
+    "url": "https://store.vspo.jp/products/xross-stars-officialgoods261030-02",
+    "price": "990",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/EC__BP02___1B.png?v=1789629473",
+    "discoveredAt": "2026-09-28T22:20:52.288Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8524025692347",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-04-19T23:59:49.071Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9294245855452",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive English -Justice- Girls’ Night",
-    "url": "https://shop.hololivepro.com/products/hololiveenjustice_girlsnight",
-    "price": "3300",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Girls_E2_80_99Night_banner_JP_260416_ol_2.png?v=1776318099",
-    "discoveredAt": "2026-04-19T23:28:02.721Z",
-    "type": "shop"
   }
 ]
