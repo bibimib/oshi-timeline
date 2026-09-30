@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9628405694684",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ「キミを独り占め看病」ASMRボイス",
+    "url": "https://shop.hololivepro.com/products/hololive_asmr_imusttendtoyou",
+    "price": "8000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260930__20I_20Must_20Tend_20to_20You_JP_02.png?v=1789710065",
+    "discoveredAt": "2026-09-30T13:50:00.390Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-8523990270139",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": "10200",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260711_IRyS1stConcert_jp_top_02.png?v=1783590170",
     "discoveredAt": "2026-07-11T06:01:26.209Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9489394958556",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【受注生産】IRyS 1st Concert “HOPE ||: Beyond the Stars”ライブグッズ",
-    "url": "https://shop.hololivepro.com/products/irys_1stconcert_hopebeyondthestars_madetoorder",
-    "price": "2090",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260711_IRyS1stConcert_jp_top_03.png?v=1783590259",
-    "discoveredAt": "2026-07-11T06:01:24.693Z",
     "type": "shop"
   }
 ]
