@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15397152063708",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ ハロウィンボイス2026 〜7つの甘罪〜",
+    "url": "https://shop.hololivepro.com/products/hololive_halloween2026_sevensweetsins",
+    "price": "6000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20261002_Halloween2026_2_jp.png?v=1790565303",
+    "discoveredAt": "2026-10-02T15:04:50.453Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15401414492380",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/ec_thumb_6bad2b0b-842a-4911-97e3-2f19dcd8ece7.png?v=1783591253",
     "discoveredAt": "2026-07-12T07:59:38.151Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-b0f7e1a1",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】宝鐘マリン EP「New World Carnival 〜いざ魅惑の大海原へ♡〜」26年9月30日(水) 発売【店舗特典】",
-    "url": "https://merch-matome.com/new-world-carnival/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-11T10:39:12.950Z",
-    "type": "info"
   }
 ]
