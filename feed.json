@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15404732842204",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive closet エリザベス・ローズ・ブラッドフレイム うたたねミントゲーマー衣装",
+    "url": "https://shop.hololivepro.com/products/elizabethrosebloodflame_hololivecloset_sleepymintygameroutfit",
+    "price": "1760",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.12_thumbnail_banner_JP_ol_1.png?v=1790855654",
+    "discoveredAt": "2026-10-04T23:25:16.148Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15404778553564",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "17600",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260716_HISTORY_Banner01_SQ.png?v=1784108117",
     "discoveredAt": "2026-07-16T07:01:15.815Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9499215102172",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "アイラニ・イオフィフティーン 誕生日記念2026",
-    "url": "https://shop.hololivepro.com/products/airaniiofifteen_birthday_2026",
-    "price": "15180",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_AiraniIofifteen_BC_banner_JP_260707_2.png?v=1783584817",
-    "discoveredAt": "2026-07-15T15:25:31.584Z",
     "type": "shop"
   }
 ]
