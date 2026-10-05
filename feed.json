@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-70f654c8",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】ふくや × 星街すいせい",
+    "url": "https://merch-matome.com/fukui-suisei/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-05T07:19:02.197Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-15404650725596",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/ec_thumbnail_shirt.png?v=1783328835",
     "discoveredAt": "2026-07-17T11:14:21.798Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10030",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Q&A】回答を公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10030",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-17T09:47:52.663Z",
-    "type": "news"
   }
 ]
