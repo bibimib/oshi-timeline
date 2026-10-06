@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-10317467943099",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "VSPO! LOOK CLIP 会議です！TEE",
+    "url": "https://store.vspo.jp/products/vspo-look-clip-kaigidesu-tee",
+    "price": "5000",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/1_kai.png?v=1790576685",
+    "discoveredAt": "2026-10-06T16:23:40.038Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15407693299932",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "13000",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_33fe0d75-0c2d-4140-b4e3-4717d3c651ef.png?v=1783499563",
     "discoveredAt": "2026-07-19T12:54:49.510Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8461988135099",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "空澄セナ　6周年記念2026　直筆サイン入りポストカード抽選応募ページ",
-    "url": "https://store.vspo.jp/products/asumisena-ani6th-postcard",
-    "price": "0",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_33fe0d75-0c2d-4140-b4e3-4717d3c651ef.png?v=1783499563",
-    "discoveredAt": "2026-07-18T15:44:15.451Z",
     "type": "shop"
   }
 ]
