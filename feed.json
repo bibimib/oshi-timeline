@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15407693299932",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【2次販売】IRyS 1st Concert “HOPE ||: Beyond the Stars”ライブグッズ",
+    "url": "https://shop.hololivepro.com/products/irys_1stconcert_hopebeyondthestars_secondaryorder",
+    "price": "7500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260924_IRyS_E3_83_A9_E3_82_A4_E3_83_95_E3_82_992_E6_AC_A1_E8_B2_A9_E5_A3_B2_E3_82_AF_E3_82_99_E3_83_83_E3_82_B9_E3_82_99_E3_83_8F_E3_82_99_E3_83_8A_E3_83_BC__E3_82_B5_E3_83_A0_E3_83_8.png?v=1791167547",
+    "discoveredAt": "2026-10-06T13:14:49.345Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10057",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "0",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_33fe0d75-0c2d-4140-b4e3-4717d3c651ef.png?v=1783499563",
     "discoveredAt": "2026-07-18T15:44:15.451Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9514059301084",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "兎田ぺこら 活動7周年記念",
-    "url": "https://shop.hololivepro.com/products/usadapekora_anniversary_7th",
-    "price": "17930",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Usada_20Pekora_7th_banner_JP_260714_ol_2.png?v=1784085848",
-    "discoveredAt": "2026-07-17T14:26:21.854Z",
     "type": "shop"
   }
 ]
