@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10057",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Q&A】回答を公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10057",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-06T11:40:07.999Z",
+    "type": "news"
+  },
+  {
     "id": "vspo-10317465125051",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Usada_20Pekora_7th_banner_JP_260714_ol_2.png?v=1784085848",
     "discoveredAt": "2026-07-17T14:26:21.854Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10050",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "星街すいせいオフィシャルイベント「星詠み ぱじゃまぱーてぃー Vol.1」 アンケート実施のお知らせ",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10050",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-17T11:15:10.012Z",
-    "type": "news"
   }
 ]
