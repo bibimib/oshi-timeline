@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15407076835548",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【ホロプラス】ねぽらぼ6周年記念「Grimoire 4♥Ever」配信の感想を大募集 感想コメント壁紙（PC用）",
+    "url": "https://shop.hololivepro.com/products/holoplus_nepolabo_6thanniversary",
+    "price": "0",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/NepolaboWeeeek_Fan_20Comment_EC_JP.jpg?v=1790831077",
+    "discoveredAt": "2026-10-07T07:44:44.600Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-10321204904156",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_8gatsu-item_banner_JP_260625_ol_4.png?v=1784083473",
     "discoveredAt": "2026-07-22T10:54:42.287Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-757c34ca",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】Vジャンプ 2026年10月号 / 宝鐘マリン × 矢吹健太朗対談・描き下ろし hololive OFFICIAL CARD GAME 付録：26年8月21日発売",
-    "url": "https://merch-matome.com/vjump-2610/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-21T23:26:18.080Z",
-    "type": "info"
   }
 ]
