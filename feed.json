@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15408346562780",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜 Blu-ray",
+    "url": "https://shop.hololivepro.com/products/hololive3rdgen_live_operationheartfulcuties_bluray",
+    "price": "12100",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261007_hl3_JP2_1500X1500_1001.jpg?v=1790941213",
+    "discoveredAt": "2026-10-07T14:45:37.114Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15411378782428",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "5280",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_8gatsu-item_banner_JP_260625_ol_2.png?v=1784000881",
     "discoveredAt": "2026-07-22T10:54:44.828Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9514080665820",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME オフィシャルホロカケース vol.32〜vol.34",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_cardcase_vol32-34",
-    "price": "880",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_8gatsu-item_banner_JP_260625_ol_10.png?v=1784082414",
-    "discoveredAt": "2026-07-22T10:54:43.674Z",
     "type": "shop"
   }
 ]
