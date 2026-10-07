@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15408441426140",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Hakos Baelz 1st Concert “REGALIA”  デジタルメッセージボード",
+    "url": "https://shop.hololivepro.com/products/hakosbaelz_1stconcert_regalia_digitalmessageboard",
+    "price": "3000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Baelz1st_messageboard_ec_thumbnail_1500x1500_01.png?v=1791196931",
+    "discoveredAt": "2026-10-07T07:44:41.739Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-38adbd73",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-07-21T09:57:55.668Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-26c359d5",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【発売中】ヘッドセット TURTLE BEACH Stealth Pro II ホロライブ ドリームス コラボモデル",
-    "url": "https://merch-matome.com/turtle-beach-stealth-pro-ii/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-21T07:04:14.620Z",
     "type": "info"
   }
 ]
