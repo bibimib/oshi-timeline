@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-10321204904156",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【ホロプラス】ホロカグランドステージ 2026大阪「妄想デート企画 夏だ！ホロカだ！海デートだ？！」",
+    "url": "https://shop.hololivepro.com/products/holoplus_holocagrandstage2026_osakadreamdatecampaign",
+    "price": "0",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Osaka_holoca_EC_01_JP.jpg?v=1790849640",
+    "discoveredAt": "2026-10-07T07:44:43.342Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15408441426140",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-07-21T23:26:18.080Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-570e38bb",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【発売中】スポーツ報知 26年7月17日 桃鈴ねね掲載",
-    "url": "https://merch-matome.com/sports-houchi260717/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-21T09:57:55.668Z",
     "type": "info"
   }
 ]
