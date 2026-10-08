@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15411483836636",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "常闇トワ トワの日記念グッズ",
+    "url": "https://shop.hololivepro.com/products/tokoyamitowa_towadaycommemorativemerch",
+    "price": "13750",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_TokoyamiTowa_Towanohi_banner_JP_1005_ol_2.png?v=1791364419",
+    "discoveredAt": "2026-10-08T13:15:54.415Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-fd01da9c",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "300",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260723_Coworking_With_You_calendar_photo_card_JP_02.png?v=1784695195",
     "discoveredAt": "2026-07-23T09:38:56.592Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9511143080156",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ホロライブ 日常ささやき「いっしょに作業」ボイス",
-    "url": "https://shop.hololivepro.com/products/hololive_asmr_coworkingwithyou",
-    "price": "16000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260723_Coworking_With_You_JP_02.png?v=1784174875",
-    "discoveredAt": "2026-07-23T09:38:55.116Z",
     "type": "shop"
   }
 ]
