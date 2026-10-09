@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-10317465223355",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "小雀とと　誕生日記念2026　直筆サイン入りポストカード抽選応募ページ",
+    "url": "https://store.vspo.jp/products/kogaratoto-birthday2026-postcard",
+    "price": "0",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1_7e9fc456-1656-4061-b2db-bdf7c5aaa5e5.png?v=1790911759",
+    "discoveredAt": "2026-10-09T19:54:12.516Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15417944309980",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "6600",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/top_senkou_JP.png?v=1784707294",
     "discoveredAt": "2026-07-27T13:42:13.827Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9526054781148",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "虎金妃笑虎 誕生日記念2026",
-    "url": "https://shop.hololivepro.com/products/koganeiniko_birthday_2026",
-    "price": "13750",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Koganeiniko_BC_banner_JP_260723_ol_2.png?v=1784792395",
-    "discoveredAt": "2026-07-25T12:56:39.327Z",
     "type": "shop"
   }
 ]
