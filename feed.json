@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15417883361500",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME English Edition Live Start Deck Hoshimachi Suisei",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd17e",
+    "price": "1422",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_SD14-19EC_banner_EN_260903_4.png?v=1791247600",
+    "discoveredAt": "2026-10-09T03:06:56.430Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15417898795228",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-07-24T04:43:03.163Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9517476446428",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ねんどろいど IRyS",
-    "url": "https://shop.hololivepro.com/products/irys_nendoroid",
-    "price": "8900",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20269724_nendoroid_IRyS_sp_jp.jpg?v=1784619013",
-    "discoveredAt": "2026-07-24T03:44:13.260Z",
-    "type": "shop"
   }
 ]
