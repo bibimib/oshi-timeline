@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-0958a4a2",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】コンプティーク 2027年1月号 / 白銀ノエル&宝鐘マリン大特集：12月10日発売",
+    "url": "https://merch-matome.com/comptiq2701/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-09T09:22:36.449Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-15416978931932",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "550",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_RO_badge_banner_JP_260723_ol_id.png?v=1784788653",
     "discoveredAt": "2026-07-24T10:50:15.701Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9525898641628",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "Regular Outfit ホロライブインドネシア アクリルスタンド",
-    "url": "https://shop.hololivepro.com/products/hololiveid_regularoutfit_acrylicstand",
-    "price": "1760",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_RO_as_banner_JP_260723_ol_1_id.png?v=1784797558",
-    "discoveredAt": "2026-07-24T10:50:13.750Z",
     "type": "shop"
   }
 ]
