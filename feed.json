@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15417058230492",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME English Edition Live Start Deck Juufuutei Raden",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd15e",
+    "price": "1422",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_SD14-19EC_banner_EN_260903_2.png?v=1791193627",
+    "discoveredAt": "2026-10-09T03:06:59.777Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15417107218652",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "1760",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_RO_as_banner_JP_260723_ol_1_r.png?v=1784881015",
     "discoveredAt": "2026-07-24T10:50:12.576Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9519474114780",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME オフィシャルホロカラバーマット EX vol.3~6",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_rubbermatex_vol3-6",
-    "price": "3000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_7gatsu-item_banner_JP_260710_1.png?v=1784256630",
-    "discoveredAt": "2026-07-24T08:45:51.544Z",
     "type": "shop"
   }
 ]
