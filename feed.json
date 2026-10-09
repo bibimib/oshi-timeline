@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15417913671900",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME English Edition Live Start Deck Oozora Subaru",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd19e",
+    "price": "1422",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_SD14-19EC_banner_EN_260903_6.png?v=1791251349",
+    "discoveredAt": "2026-10-09T03:06:52.931Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15411483836636",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-07-23T12:55:04.889Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9489569513692",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ホロライブ 日常ささやき「いっしょに作業」ボイス 8月カレンダーブロマイド",
-    "url": "https://shop.hololivepro.com/products/hololive_coworkingwithyou_augustcalendar",
-    "price": "300",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260723_Coworking_With_You_calendar_photo_card_JP_02.png?v=1784695195",
-    "discoveredAt": "2026-07-23T09:38:56.592Z",
-    "type": "shop"
   }
 ]
