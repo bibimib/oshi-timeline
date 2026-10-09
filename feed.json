@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15405088407772",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ 日常ささやき「密室」ボイス 11月カレンダーブロマイド",
+    "url": "https://shop.hololivepro.com/products/hololive_secretspace_novembercalendar",
+    "price": "300",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20261009_secret_calendar_photo_card_JP_02.png?v=1790754971",
+    "discoveredAt": "2026-10-09T10:25:39.033Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-0958a4a2",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "550",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_RO_badge_banner_JP_260723_ol_jp.png?v=1784788597",
     "discoveredAt": "2026-07-24T10:50:16.792Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9525810069724",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "Regular Outfit ホロライブインドネシア 缶バッジ",
-    "url": "https://shop.hololivepro.com/products/hololiveid_regularoutfit_buttonbadge",
-    "price": "550",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_RO_badge_banner_JP_260723_ol_id.png?v=1784788653",
-    "discoveredAt": "2026-07-24T10:50:15.701Z",
     "type": "shop"
   }
 ]
