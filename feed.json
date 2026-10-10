@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15420490580188",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "姫森ルーナ 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/himemoriluna_birthday_2026",
+    "price": "22000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_HimemoriLuna_BC_banner_JP_261007_ol_2.png?v=1791438497",
+    "discoveredAt": "2026-10-10T13:35:04.110Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10082",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_MemberDesignSeries___T_ddc6eca0-0ba4-4b2d-b6b1-3ca65aad98d2.png?v=1785132742",
     "discoveredAt": "2026-07-28T12:47:35.619Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-5c461d25",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【8月6日〜】ホロライブ × 極楽湯 RAKU SPAコラボ「フロライフ 癒しの湯巡り旅」コラボグッズ通販",
-    "url": "https://merch-matome.com/rakuspa-yumeguri/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-27T21:35:20.534Z",
-    "type": "info"
   }
 ]
