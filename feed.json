@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10082",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Radio】#011「夏の答え合わせ」公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10082",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-10T13:12:41.762Z",
+    "type": "news"
+  },
+  {
     "id": "vspo-10317465223355",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-07-27T21:35:20.534Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9527218471132",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "さくらみこ1st Live “flower fantasista!” Blu-ray 通常盤",
-    "url": "https://shop.hololivepro.com/products/sakuramiko_1stlive_flowerfantasista_bluray_regular",
-    "price": "6600",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/top_senkou_JP.png?v=1784707294",
-    "discoveredAt": "2026-07-27T13:42:13.827Z",
-    "type": "shop"
   }
 ]
