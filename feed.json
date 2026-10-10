@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-10317467156667",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "小雀とと　誕生日記念2026",
+    "url": "https://store.vspo.jp/products/kogaratoto-birthday2026",
+    "price": "15000",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1_7e9fc456-1656-4061-b2db-bdf7c5aaa5e5.png?v=1790911759",
+    "discoveredAt": "2026-10-10T16:00:37.087Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15420490580188",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-07-29T05:11:41.331Z",
     "type": "news"
-  },
-  {
-    "id": "vspo-8487745421499",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "【メンバーデザイン】ありえない、はきそう。Tシャツ【小雀とと】",
-    "url": "https://store.vspo.jp/products/memberdesign-arienaihakisout",
-    "price": "4000",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_MemberDesignSeries___T_ddc6eca0-0ba4-4b2d-b6b1-3ca65aad98d2.png?v=1785132742",
-    "discoveredAt": "2026-07-28T12:47:35.619Z",
-    "type": "shop"
   }
 ]
