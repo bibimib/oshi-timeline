@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15420098805980",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【受注生産】Hakui Koyori 1st Live “Dream Spark”ライブグッズ",
+    "url": "https://shop.hololivepro.com/products/hakuikoyori_1stlive_dreamspark_madetoorder",
+    "price": "3630",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261011_HakuiKoyori_1st_JP_03.png?v=1791525408",
+    "discoveredAt": "2026-10-11T16:45:44.136Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-10317467156667",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/E6_A1_83_E9_88_B4_E3_81_AD_E3_81_AD_E3_83_A9_E3_82_A4_E3_83_95_E3_82_99_E3_83_8F_E3_82_99_E3_83_8A_E3_83_BC_E6_AD_A3_E6_96_B9_E5_BD_A2_0728-05.png?v=1785230872",
     "discoveredAt": "2026-07-29T14:35:14.998Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10051",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【リセール受付のお知らせ】 「HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar」神奈川公演",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10051",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-29T05:11:41.331Z",
-    "type": "news"
   }
 ]
