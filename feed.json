@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15419881816284",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "クレイジー・オリー 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/kureijiollie_birthday_2026",
+    "price": "14300",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Kureiji_20Ollie_BC_banner_JP_1005_2.png?v=1791342633",
+    "discoveredAt": "2026-10-13T17:01:38.183Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-10317469679803",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_7a8aa387-9642-4411-9c3f-c1656057643a.png?v=1782984497",
     "discoveredAt": "2026-07-30T10:12:37.107Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-ff14fb36",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【発売中】スポーツ報知 26年7月30日 桃鈴ねね掲載",
-    "url": "https://merch-matome.com/sports-houchi260730/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-30T07:11:17.439Z",
-    "type": "info"
   }
 ]
