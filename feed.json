@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-ea520f77",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】Holoearth Days! A Tale Side:W ウェスタdeクッキング -幸せのルセット- 第3巻：26年12月7日発売",
+    "url": "https://merch-matome.com/holoearth-days-a-tale-sidew-03/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-13T19:24:11.613Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-15420258517212",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260731_Ookami_20Mio_DateStyle_1080_1080_jp.jpg?v=1785215730",
     "discoveredAt": "2026-07-31T04:41:11.541Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10031",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Q&A】回答を公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10031",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-30T10:13:43.871Z",
-    "type": "news"
   }
 ]
