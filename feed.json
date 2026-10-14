@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15422702911708",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME スタートデッキ アソビ★まわり隊！ 推し 熱千めら",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd21",
+    "price": "1980",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_SD20-21_banner_JP_261007_ol_4.png?v=1791439681",
+    "discoveredAt": "2026-10-14T10:20:43.959Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10085",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "20790",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_NerissaRavencroft_3rd_banner_JP_0729_2.png?v=1785376500",
     "discoveredAt": "2026-07-31T04:41:14.909Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9535129518300",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "1/7 スケールフィギュア G.S.Collection 白上フブキ Date Style 私服衣装 Ver.",
-    "url": "https://shop.hololivepro.com/products/shirakamifubuki_casualoutfit_datestyle",
-    "price": "22000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260731_Shirakami_20Fubuki_DateStyle__1080_1080_jp.jpg?v=1785208772",
-    "discoveredAt": "2026-07-31T04:41:13.499Z",
     "type": "shop"
   }
 ]
