@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10085",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "「HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar」 特設サイト更新！「Puzzle Game」公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10085",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-14T06:59:24.656Z",
+    "type": "news"
+  },
+  {
     "id": "holomatome-ea520f77",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "22000",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260731_Shirakami_20Fubuki_DateStyle__1080_1080_jp.jpg?v=1785208772",
     "discoveredAt": "2026-07-31T04:41:13.499Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9535139152092",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "1/7 スケールフィギュア G.S.Collection 大神ミオ Date Style おでかけ衣装 Ver.",
-    "url": "https://shop.hololivepro.com/products/ookamimio_streetoutfit_datestyle",
-    "price": "22000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260731_Ookami_20Mio_DateStyle_1080_1080_jp.jpg?v=1785215730",
-    "discoveredAt": "2026-07-31T04:41:11.541Z",
     "type": "shop"
   }
 ]
