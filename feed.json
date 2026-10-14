@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10084",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar 10月21日(水) GLION ARENA KOBE公演 アップグレードエリア変更と返金対応のお知らせ",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10084",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-14T12:46:23.185Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-15422589305052",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-07-31T11:21:05.005Z",
     "type": "news"
-  },
-  {
-    "id": "holomatome-128e0837",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】G.S.Collection 白上フブキ Date Style 私服衣装 Ver.：27年9月発売",
-    "url": "https://merch-matome.com/fubuki-date-style/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-31T04:53:22.182Z",
-    "type": "info"
   }
 ]
