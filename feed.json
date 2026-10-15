@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15425766883548",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "鷹嶺ルイ1stライブ \"REBELLION\" デジタルメッセージボード",
+    "url": "https://shop.hololivepro.com/products/takanelui_1stlive_rebellion_digitalmessageboard",
+    "price": "3000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Takane_Lui_1st_Live_REBELLION_Digital_Message_Board_JP1.png?v=1791957503",
+    "discoveredAt": "2026-10-15T09:53:19.099Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10084",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_La_2BLui_newoutfit2026_JP_260730_2.png?v=1785410261",
     "discoveredAt": "2026-08-01T12:39:20.707Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10052",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Radio】#007「平成リバイバル」公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10052",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-07-31T11:21:05.005Z",
-    "type": "news"
   }
 ]
