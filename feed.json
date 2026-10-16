@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-83244",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "星街すいせい ロゴTシャツ(ROCK IN JAPAN FESTIVAL 2026 ver.)",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-83244?ima=1903",
+    "price": "5500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/da9/36569729f250441e0db9e995dc358.jpg",
+    "discoveredAt": "2026-10-16T15:19:03.746Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9581165084892",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "12000",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/miko2nd_EC_top_02_JP.png?v=1785415289",
     "discoveredAt": "2026-08-01T14:13:40.825Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9536915341532",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "さくらみこ 2nd Album『Blooming Cinderella』通常盤",
-    "url": "https://shop.hololivepro.com/products/sakuramiko_2ndalbum_bloomingcinderella_regular",
-    "price": "3850",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260801_SakuraMiko_2ndAlbum_JP_SQ01.png?v=1785492833",
-    "discoveredAt": "2026-08-01T14:13:38.822Z",
     "type": "shop"
   }
 ]
