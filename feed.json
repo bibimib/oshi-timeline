@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9581165084892",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Regular Outfit holoAN アクリルスタンド",
+    "url": "https://shop.hololivepro.com/products/holoan_regularoutfit_acrylicstand",
+    "price": "1760",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_AN_RO_as_banner_JP_260814_2.png?v=1787299854",
+    "discoveredAt": "2026-10-16T11:42:39.426Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15425369866460",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260801_SakuraMiko_2ndAlbum_JP_SQ01.png?v=1785492833",
     "discoveredAt": "2026-08-01T14:13:38.822Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-10e14110",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】さくらみこ ／ 2nd Album 『Blooming Cinderella』：26年10月14日発売",
-    "url": "https://merch-matome.com/blooming-cinderella/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-01T14:04:06.891Z",
-    "type": "info"
   }
 ]
