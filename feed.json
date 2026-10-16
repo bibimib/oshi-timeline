@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-83247",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "星街すいせい クリアボトル(ROCK IN JAPAN FESTIVAL 2026 ver.)",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-83247?ima=1903",
+    "price": "3500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/80f/9568c4d79848170d508b451cac856.jpg",
+    "discoveredAt": "2026-10-16T15:19:08.759Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-83246",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "7200",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260804_Nendoroid_20Natsuiro_20Matsuri_sp_jp.jpg?v=1785311507",
     "discoveredAt": "2026-08-04T04:24:30.837Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9480970371292",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "百鬼あやめ「お隣はあやめちゃんち」ASMRボイス",
-    "url": "https://shop.hololivepro.com/products/nakiriayame_asmr_yourneighborayamechan",
-    "price": "7000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260728_NakiriAyame_22YourNeighborAyame-chan_22ASMRVoicePack_2_jp.png?v=1782962701",
-    "discoveredAt": "2026-08-03T10:55:45.454Z",
     "type": "shop"
   }
 ]
