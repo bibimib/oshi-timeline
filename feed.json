@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15425369866460",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ReGLOSS AR LIVE \"X-ReCHORD\"",
+    "url": "https://shop.hololivepro.com/products/regloss_arlive_xrechord",
+    "price": "1870",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_ReGLOSS_AR_banner_JP_260929_ol_2.png?v=1791524436",
+    "discoveredAt": "2026-10-16T11:42:37.548Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15425766883548",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-08-01T14:04:06.891Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9538298020060",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ラプルイ 新衣装記念2026",
-    "url": "https://shop.hololivepro.com/products/la-lui_newoutfit_2026",
-    "price": "17600",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_La_2BLui_newoutfit2026_JP_260730_2.png?v=1785410261",
-    "discoveredAt": "2026-08-01T12:39:20.707Z",
-    "type": "shop"
   }
 ]
