@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-83248",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "星街すいせい クリアラバーバンド(ROCK IN JAPAN FESTIVAL 2026 ver.)",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-83248?ima=1903",
+    "price": "1500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/41f/703d5e557688a721e764d55507a99.jpg",
+    "discoveredAt": "2026-10-16T15:19:10.143Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-83247",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-08-04T04:55:00.368Z",
     "type": "news"
-  },
-  {
-    "id": "hololive-9538727543004",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【再販】ねんどろいど 夏色まつり",
-    "url": "https://shop.hololivepro.com/products/natsuiromatsuri_nendoroid_rerelease",
-    "price": "7200",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260804_Nendoroid_20Natsuiro_20Matsuri_sp_jp.jpg?v=1785311507",
-    "discoveredAt": "2026-08-04T04:24:30.837Z",
-    "type": "shop"
   }
 ]
