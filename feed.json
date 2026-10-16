@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-83246",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "星街すいせい サコッシュ(ROCK IN JAPAN FESTIVAL 2026 ver.)",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-83246?ima=1903",
+    "price": "3800",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/755/b6e3b6c9cf2f42f02986766bfb69f.jpg",
+    "discoveredAt": "2026-10-16T15:19:06.925Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-83245",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "7000",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260728_NakiriAyame_22YourNeighborAyame-chan_22ASMRVoicePack_2_jp.png?v=1782962701",
     "discoveredAt": "2026-08-03T10:55:45.454Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9537022296284",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ロボ子さん 1st Album『Jewel Memory』",
-    "url": "https://shop.hololivepro.com/products/robocosan_1stalbum_jewelmemory",
-    "price": "19800",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260802_Robocosan_1stAlbum_JP_SQ01.png?v=1785466856",
-    "discoveredAt": "2026-08-02T12:44:51.455Z",
     "type": "shop"
   }
 ]
