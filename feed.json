@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-10317468369083",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "如月れん　6周年記念2026",
+    "url": "https://store.vspo.jp/products/kisaragiren-ani6th",
+    "price": "11000",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1_1e1fef6b-e7af-443a-8919-0d2ee80191ad.png?v=1791860692",
+    "discoveredAt": "2026-10-18T12:16:38.187Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-c01714a3",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_3rdGen_AnniversaryParade2026_JP_260730_ol_2.png?v=1785480019",
     "discoveredAt": "2026-08-05T10:00:12.297Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10032",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Q&A】回答を公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10032",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-04T10:27:39.593Z",
-    "type": "news"
   }
 ]
