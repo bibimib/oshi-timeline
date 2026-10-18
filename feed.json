@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-15421327278267",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "【二次予約】Xross Stars EXスタートデッキ『ぶいすぽっ！』",
+    "url": "https://store.vspo.jp/products/xrossstars-exstarterdeck1-2",
+    "price": "1485",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/EC__ST03.png?v=1789629538",
+    "discoveredAt": "2026-10-18T16:13:13.127Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-10317468369083",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-08-06T04:38:32.050Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9543257882844",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive 3rd Generation Anniversary Parade -Celestial-",
-    "url": "https://shop.hololivepro.com/products/hololivegen3_anniversary_2026",
-    "price": "3850",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_3rdGen_AnniversaryParade2026_JP_260730_ol_2.png?v=1785480019",
-    "discoveredAt": "2026-08-05T10:00:12.297Z",
-    "type": "shop"
   }
 ]
