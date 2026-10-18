@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-15421327179963",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "【二次予約】Xross Stars オフィシャルスリーブ vol.18『胡桃のあ』",
+    "url": "https://store.vspo.jp/products/xross-stars-officialgoods261030-03-2",
+    "price": "1320",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/EC__BP05___1A.png?v=1789629507",
+    "discoveredAt": "2026-10-18T16:13:14.480Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-15421327278267",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260806_MakingYourHeartRace_2_jp.png?v=1785395192",
     "discoveredAt": "2026-08-06T09:13:18.738Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-8ce8356d",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【再販・予約受付中】夏色まつり ねんどろいど：27年3月発売",
-    "url": "https://merch-matome.com/nendroid-matsuri/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-06T04:38:32.050Z",
-    "type": "info"
   }
 ]
