@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-10317468598459",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "花芽なずな　8周年記念2026　直筆サイン入りポストカード抽選応募ページ",
+    "url": "https://store.vspo.jp/products/kaganazuna-ani8th-postcard",
+    "price": "0",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_928a0174-9450-4828-b20e-f92269def0d8.png?v=1791883098",
+    "discoveredAt": "2026-10-19T17:57:40.011Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10093",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-08-13T15:28:27.532Z",
     "type": "info"
-  },
-  {
-    "id": "suisei-news-10053",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Radio】#008「夏のランキング特集」公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10053",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-13T09:53:45.756Z",
-    "type": "news"
   }
 ]
