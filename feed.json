@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10091",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar 福岡公演 アップグレード追加受付",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10091",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-19T11:49:14.307Z",
+    "type": "news"
+  },
+  {
     "id": "suisei-news-10092",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-08-13T09:53:44.609Z",
     "type": "news"
-  },
-  {
-    "id": "holomatome-6f210169",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】MADE IN ABYSSORIGINAL SOUNDTRACK 4 / 森カリオペ参加：26年10月23日発売",
-    "url": "https://merch-matome.com/made-in-abyssoriginal-soundtrack-4/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-12T12:05:23.360Z",
-    "type": "info"
   }
 ]
