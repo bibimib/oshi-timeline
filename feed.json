@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10093",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar 11月7日（土）IGアリーナ公演・11月12日（木）マリンメッセ福岡A館公演 アップグレードエリア変更と返金対応のお知らせ",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10093",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-19T11:49:15.806Z",
+    "type": "news"
+  },
+  {
     "id": "suisei-news-10091",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-08-13T09:53:45.756Z",
-    "type": "news"
-  },
-  {
-    "id": "suisei-news-10055",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar 神奈川公演 アップグレード追加受付",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10055",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-13T09:53:44.609Z",
     "type": "news"
   }
 ]
