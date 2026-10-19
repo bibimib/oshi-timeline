@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15435128733916",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ジジ・ムリン 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/gigimurin_birthday_2026",
+    "price": "16500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_GigiMurin_BC_banner_JP_261009_2.png?v=1791958627",
+    "discoveredAt": "2026-10-19T05:17:32.648Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-38bf3104",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "700",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_f7e08d32-6939-472a-87ba-07df51ab8fc4.png?v=1785987628",
     "discoveredAt": "2026-08-12T10:51:33.641Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9550171406556",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "宝鐘マリン 活動7周年記念",
-    "url": "https://shop.hololivepro.com/products/houshoumarine_anniversary_7th",
-    "price": "20570",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_HoushouMarine_7th_banner_JP_260805_ol_2.png?v=1786081083",
-    "discoveredAt": "2026-08-11T13:53:02.696Z",
     "type": "shop"
   }
 ]
