@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-10317468565691",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "花芽すみれ　8周年記念2026",
+    "url": "https://store.vspo.jp/products/kagasumire-ani8th",
+    "price": "10500",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/thumbnail_75540ed8-f61e-4f8a-9071-4fd1fef9574b.png?v=1791881113",
+    "discoveredAt": "2026-10-20T15:28:22.343Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-10317468762299",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": "18920",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_Shishiro_20Botan_6th_JP_260807_2.png?v=1786332407",
     "discoveredAt": "2026-08-14T11:35:56.204Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8487752007867",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "【事後販売】Tachibana Hinano One-Man Live Progress",
-    "url": "https://store.vspo.jp/products/tachibana-hinano-one-man-live-progress2",
-    "price": "4000",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/1_1_thumbnail_99266f22-b1da-431c-94c1-4eaf1d08fd66.png?v=1786361305",
-    "discoveredAt": "2026-08-14T08:58:23.524Z",
     "type": "shop"
   }
 ]
