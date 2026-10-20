@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-10317468762299",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "花芽なずな　8周年記念2026",
+    "url": "https://store.vspo.jp/products/kaganazuna-ani8th",
+    "price": "15500",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_928a0174-9450-4828-b20e-f92269def0d8.png?v=1791883098",
+    "discoveredAt": "2026-10-20T15:28:20.502Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-10317468958907",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/1_1_thumbnail_99266f22-b1da-431c-94c1-4eaf1d08fd66.png?v=1786361305",
     "discoveredAt": "2026-08-14T08:58:23.524Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-9d870f72",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【8/29〜】「ホロライブプロダクション ART JAM!!!フェア in animate」 オリジナルグッズ発売・アニメイトフェア開催",
-    "url": "https://merch-matome.com/art-jam/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-14T08:41:29.897Z",
-    "type": "info"
   }
 ]
