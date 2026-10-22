@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10096",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【重要】2026/10/21(水)22:30～緊急メンテナンス実施のお知らせ",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10096",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-22T17:48:59.189Z",
+    "type": "news"
+  },
+  {
     "id": "suisei-news-10097",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-08-15T13:05:38.936Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9570219327708",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "雪花ラミィ 1st Album『Fleur de neige』完全生産限定盤",
-    "url": "https://shop.hololivepro.com/products/yukihanalamy_1stalbum_fleurdeneige_limited",
-    "price": "11000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260815_JP_Limi_SQ_01.png?v=1786685020",
-    "discoveredAt": "2026-08-15T12:51:02.336Z",
-    "type": "shop"
   }
 ]
