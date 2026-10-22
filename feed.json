@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-7976d4f4",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【10/23予約開始】figma 大神ミオ：27年7月発売",
+    "url": "https://merch-matome.com/figma-mio/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-22T15:25:20.411Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-15446208774364",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "3850",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/JP_Reg_SQ_01.png?v=1786694532",
     "discoveredAt": "2026-08-15T12:51:00.483Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9550912028892",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【再販】ホロライブ 七夕デートボイス2024",
-    "url": "https://shop.hololivepro.com/products/hololive_tanabatadatevoice2024_resale",
-    "price": "19000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260815_TanabataDate_2_jp.png?v=1786096723",
-    "discoveredAt": "2026-08-15T11:20:20.752Z",
     "type": "shop"
   }
 ]
