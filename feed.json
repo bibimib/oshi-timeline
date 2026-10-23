@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10058",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Q&A】回答を公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10058",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-23T10:51:48.992Z",
+    "type": "news"
+  },
+  {
     "id": "suisei-news-10098",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_2th_banner_JP_260805_2_2.png?v=1786338823",
     "discoveredAt": "2026-08-17T08:01:56.378Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-85c27037",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【27年1月】グッズ予定まとめ",
-    "url": "https://merch-matome.com/goods-jan27/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-16T21:41:08.042Z",
-    "type": "info"
   }
 ]
