@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9281670054108",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive Seasonal Days オータムストリート",
+    "url": "https://shop.hololivepro.com/products/hololiveseasonaldays_autumnstreet",
+    "price": "1980",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_autumnstreet_banner_JP_261005_2.png?v=1792404654",
+    "discoveredAt": "2026-10-23T10:20:14.698Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10096",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_ShiroganeNoeru_7th_banner_JP_260807_2.png?v=1786520929",
     "discoveredAt": "2026-08-15T13:23:01.355Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-05408d25",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】雪花ラミィ 1stアルバム「Fleur de neige」：27年1月27日発売【店舗特典まとめ】",
-    "url": "https://merch-matome.com/fleur-de-neige/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-15T13:05:38.936Z",
-    "type": "info"
   }
 ]
