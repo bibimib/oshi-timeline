@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15446131310812",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ Travel to Indonesia ボイスドラマ",
+    "url": "https://shop.hololivepro.com/products/hololive_audiodrama_traveltoindonesia",
+    "price": "4500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261023_Travel_to_Indonesia_JP_02.png?v=1792378394",
+    "discoveredAt": "2026-10-23T15:12:03.711Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10058",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "3850",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_NePoLaBo_AnniversaryParade2026_JP_260807_ol_2.png?v=1786364010",
     "discoveredAt": "2026-08-17T13:02:03.048Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9558206120156",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME 2nd Anniversary Celebration Set",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_2ndanniversarycelebrationset",
-    "price": "12100",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_2th_banner_JP_260805_2_2.png?v=1786338823",
-    "discoveredAt": "2026-08-17T08:01:56.378Z",
     "type": "shop"
   }
 ]
