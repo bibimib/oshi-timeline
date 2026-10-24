@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-83446",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "Halloween たこやきフィギュア",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-83446?ima=1523",
+    "price": "3500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/12a/0e40bfc5f22fa41ac34bb36f01098.jpg",
+    "discoveredAt": "2026-10-24T13:15:23.953Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15441002660060",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "300",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260818_Worried_About_You_calendar_photo_card_JP_02.png?v=1785747015",
     "discoveredAt": "2026-08-18T09:06:43.088Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9570626011356",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "IRyS 1st Concert “HOPE ||: Beyond the Stars” デジタルメッセージボード",
-    "url": "https://shop.hololivepro.com/products/irys_1stconcert_hopebeyondthestars_digitalmessageboard",
-    "price": "3000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/IRyS_messageboard_ec_thumbnail_1500x1500_01.png?v=1786601898",
-    "discoveredAt": "2026-08-18T07:09:13.881Z",
     "type": "shop"
   }
 ]
