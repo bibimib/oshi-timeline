@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-83449",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "Halloween 缶バッジ",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-83449?ima=1523",
+    "price": "500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/f8e/4f40954d63cc650178a05efd9cc90.jpg",
+    "discoveredAt": "2026-10-24T13:15:29.415Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-83448",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_9gatsu-item_banner_JP_260807_2_2.png?v=1786953596",
     "discoveredAt": "2026-08-19T10:10:57.337Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10033",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Q&A】回答を公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10033",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-19T09:23:42.962Z",
-    "type": "news"
   }
 ]
