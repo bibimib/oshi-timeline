@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-83453",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "Halloween ショッパー",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-83453?ima=1523",
+    "price": "500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/342/c652baaf3d7826643a2f530598a98.jpg",
+    "discoveredAt": "2026-10-24T13:15:35.965Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-83452",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "990",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_9gatsu-item_banner_JP_260807_2_9.png?v=1786953746",
     "discoveredAt": "2026-08-19T10:11:04.001Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9573286445276",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME オフィシャルホロカケース vol.35〜vol.39",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_cardcase_vol35-39",
-    "price": "880",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_9gatsu-item_banner_JP_260807_2_3.png?v=1786953658",
-    "discoveredAt": "2026-08-19T10:11:02.267Z",
     "type": "shop"
   }
 ]
