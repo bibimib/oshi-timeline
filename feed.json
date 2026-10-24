@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-83450",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "Halloween ステッカーセット",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-83450?ima=1523",
+    "price": "1500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/275/48ef4d424f676dc5c1b5335534a46.jpg",
+    "discoveredAt": "2026-10-24T13:15:30.937Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-83449",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "1760",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_9gatsu-item_banner_JP_260807_2_15.png?v=1786953860",
     "discoveredAt": "2026-08-19T10:10:59.089Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9576412938460",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME ブースターパック「ボリュームヴォルテックス」",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp09",
-    "price": "5280",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_9gatsu-item_banner_JP_260807_2_2.png?v=1786953596",
-    "discoveredAt": "2026-08-19T10:10:57.337Z",
     "type": "shop"
   }
 ]
