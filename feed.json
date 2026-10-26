@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15440347103452",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Lovely Okaburi Mascot Series vol.5",
+    "url": "https://shop.hololivepro.com/products/hololive_lovelyokaburimascot_vol5",
+    "price": "2200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OkaburiMascot_vol5_banner_JP_261006_ol_2.png?v=1792135466",
+    "discoveredAt": "2026-10-26T12:52:48.940Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15437460340956",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_Hakos_20Baelz_5th_JP_260813_2.png?v=1786936362",
     "discoveredAt": "2026-08-23T04:04:59.291Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-e9d56b51",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】Vジャンプ 2026年11月号 / 大空スバル hololive OFFICIAL CARD GAME 付録：26年9月18日発売",
-    "url": "https://merch-matome.com/vjump-2611/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-22T15:42:52.997Z",
-    "type": "info"
   }
 ]
