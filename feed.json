@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15435470405852",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "holoLounge vol.1 ガラスマウスパッド / 折りたたみコンテナ",
+    "url": "https://shop.hololivepro.com/products/hololounge_vol1",
+    "price": "22000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_holoLounge_vol.1_banner_JP_261022_ol_6.png?v=1792655573",
+    "discoveredAt": "2026-10-26T12:52:38.972Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-10317469614267",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OokamiMio_BC_banner_JP_260817_ol_2.png?v=1787026165",
     "discoveredAt": "2026-08-20T11:10:02.194Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-07ff8b2b",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】Zipper 2026年秋号 さくらみこ ポスター封入：26年9月30日発売",
-    "url": "https://merch-matome.com/zipper-2026-autumn/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-20T05:53:45.264Z",
-    "type": "info"
   }
 ]
