@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15437460340956",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "holoLounge vol.1 チェアマット ラプラス・ダークネス",
+    "url": "https://shop.hololivepro.com/products/hololounge_vol1_chairmat_la-darknesss",
+    "price": "9900",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_holoLounge_vol.1_banner_JP_261014_ol_5.png?v=1792037930",
+    "discoveredAt": "2026-10-26T12:52:47.140Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15437353812188",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-08-22T15:42:52.997Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-36b8452d",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】VTuberスタイル 2026年9月号/ 表紙・巻頭特集 綺々羅々ヴィヴィ",
-    "url": "https://merch-matome.com/vtuberstyle-202609/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-22T08:54:30.618Z",
     "type": "info"
   }
 ]
