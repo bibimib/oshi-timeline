@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15437353812188",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "holoLounge vol.1 ゲーミングチェア ラプラス・ダークネス",
+    "url": "https://shop.hololivepro.com/products/hololounge_vol1_gamingchair_la-darknesss",
+    "price": "72600",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_holoLounge_vol.1_banner_JP_261022_ol_3.png?v=1792722142",
+    "discoveredAt": "2026-10-26T12:52:45.120Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15437473644764",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-08-22T08:54:30.618Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9576685928668",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【再販売】 ReGLOSS 1st Live “Flashpoint”ライブグッズ",
-    "url": "https://shop.hololivepro.com/products/hololiveregloss_1stlive_flashpoint_resale",
-    "price": "4000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260821_ReGLOSS_1stLIVE_EC_banner.png?v=1787045249",
-    "discoveredAt": "2026-08-21T11:12:04.594Z",
-    "type": "shop"
   }
 ]
