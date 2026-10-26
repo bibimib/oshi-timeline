@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10099",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "星街すいせい×東急歌舞伎町タワー「KABUKICHO STELLAR TOWER」デジタル抽選会期間延長のお知らせ",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10099",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-10-26T07:18:37.043Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-15417138479324",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-08-20T03:22:38.171Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9577371074780",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "figma 猫又おかゆ",
-    "url": "https://shop.hololivepro.com/products/nekomataokayu_figma",
-    "price": "12800",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/figma_NekomataOkayu_sp_jp.jpg?v=1787020019",
-    "discoveredAt": "2026-08-20T03:05:22.382Z",
-    "type": "shop"
   }
 ]
