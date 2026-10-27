@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-9142506127580",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive friends with u 輪堂千速",
+    "url": "https://shop.hololivepro.com/products/rindochihaya_hololivefriendswithu",
+    "price": "3740",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/hololivefriends_vol.22_top_RindoChihaya.png?v=1763088200",
+    "discoveredAt": "2026-10-27T12:46:25.451Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-8761450791132",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "10650",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/01_ECThumbnail_885d95ff-9ca8-44d5-a1fd-8b31843248a8.png?v=1787195748",
     "discoveredAt": "2026-08-25T03:39:36.409Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9577351315676",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "オーロ・クロニー 活動5周年記念",
-    "url": "https://shop.hololivepro.com/products/ourokronii_anniversary_5th",
-    "price": "19140",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OuroKronii_5th_banner_JP_0817_2.png?v=1787017740",
-    "discoveredAt": "2026-08-25T03:28:25.802Z",
     "type": "shop"
   }
 ]
