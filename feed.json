@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-8761450627292",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive friends with u シオリ・ノヴェラ",
+    "url": "https://shop.hololivepro.com/products/hololivefriendswithu_shiorinovella",
+    "price": "3740",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/hololivefriends_vol.16_top_ShioriNovella.png?v=1728629087",
+    "discoveredAt": "2026-10-27T12:46:15.469Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-8761450660060",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "5500",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260824_holodori_20Random_20Button_20Badge_JP01.png?v=1787136532",
     "discoveredAt": "2026-08-24T14:11:06.681Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9519711912156",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ホロドリ アクリルパネル メガスフィアver.",
-    "url": "https://shop.hololivepro.com/products/holodori_acrylicpanel_megasphere",
-    "price": "4950",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260824_holodori_20Acrylic_20Panel_JP01.png?v=1787210566",
-    "discoveredAt": "2026-08-24T14:11:04.912Z",
     "type": "shop"
   }
 ]
