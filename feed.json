@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-8761450758364",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive friends with u フワワ・アビスガード",
+    "url": "https://shop.hololivepro.com/products/hololivefriendswithu_fuwawaabyssgard",
+    "price": "3740",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/hololivefriends_vol.16_top_FuwawaAbyssgard.png?v=1728629196",
+    "discoveredAt": "2026-10-27T12:46:19.637Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9142503440604",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "14300",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260824_holodori_20Mini_20holomem_20Acrylic_20Stand_JP01.png?v=1787135412",
     "discoveredAt": "2026-08-24T14:11:09.673Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9519744024796",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ホロドリ タペストリー メガスフィアver.",
-    "url": "https://shop.hololivepro.com/products/holodori_tapestry_megasphere",
-    "price": "4400",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260824_holodori_20Tapestry_JP01.png?v=1787212471",
-    "discoveredAt": "2026-08-24T14:11:08.133Z",
     "type": "shop"
   }
 ]
