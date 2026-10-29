@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15458557264092",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "さくらみこ LP『flower rhapsody』",
+    "url": "https://shop.hololivepro.com/products/sakuramiko_lp_flowerrhapsody",
+    "price": "7700",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20261029_Sakuramiko_1st_LP_SQ01_JP.png?v=1793086125",
+    "discoveredAt": "2026-10-29T15:38:34.210Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15463401881820",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "6000",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/2_ed6f4a4c-63d0-4775-942d-e7c0ba37ac03.png?v=1786941293",
     "discoveredAt": "2026-08-25T10:39:08.112Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9577343287516",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "Tokoyami Towa 2nd Live \"SHINier\" Blu-ray",
-    "url": "https://shop.hololivepro.com/products/tokoyamitowa_2ndlive_shinier_bluray",
-    "price": "9900",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/TOWA_Blu-ray_banner-02_JP_1500x1500_0804.png?v=1787047040",
-    "discoveredAt": "2026-08-25T10:39:06.511Z",
     "type": "shop"
   }
 ]
