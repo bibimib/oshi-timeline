@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15458422948060",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "さくらみこ 活動8周年記念",
+    "url": "https://shop.hololivepro.com/products/sakuramiko_anniversary_8th",
+    "price": "14630",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Sakura_20Miko_8th_banner_JP_1022_2.png?v=1792752373",
+    "discoveredAt": "2026-10-29T15:38:35.915Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15458557264092",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "11900",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_b86bd39a-b2a0-4332-847d-857c1e0909ba.png?v=1786688439",
     "discoveredAt": "2026-08-25T12:27:24.262Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9576660599004",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【再販売】Tokoyami Towa 2nd Live \"SHINier\"ライブグッズ",
-    "url": "https://shop.hololivepro.com/products/tokoyamitowa_2ndlive_shinier_resale",
-    "price": "6000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/2_ed6f4a4c-63d0-4775-942d-e7c0ba37ac03.png?v=1786941293",
-    "discoveredAt": "2026-08-25T10:39:08.112Z",
     "type": "shop"
   }
 ]
