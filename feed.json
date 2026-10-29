@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15463401881820",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【2次販売】さくらみこ 2nd Live “Blooming Parade!!”ライブグッズ",
+    "url": "https://shop.hololivepro.com/products/sakuramiko_2ndlive_bloomingparade_secondaryorder",
+    "price": "4400",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261029_miko2nd_EC_secondary_top_01_JP.png?v=1793091065",
+    "discoveredAt": "2026-10-29T15:38:32.020Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-9142506127580",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "9900",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/TOWA_Blu-ray_banner-02_JP_1500x1500_0804.png?v=1787047040",
     "discoveredAt": "2026-08-25T10:39:06.511Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8487752040635",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "美暮ナリン　2周年記念2026",
-    "url": "https://store.vspo.jp/products/narinmikure-ani2nd",
-    "price": "10650",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/01_ECThumbnail_885d95ff-9ca8-44d5-a1fd-8b31843248a8.png?v=1787195748",
-    "discoveredAt": "2026-08-25T03:39:36.409Z",
     "type": "shop"
   }
 ]
