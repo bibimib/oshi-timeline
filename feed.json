@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15466263707868",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ロボ子さん 1st Album『Jewel Memory』Ponあるばむ",
+    "url": "https://shop.hololivepro.com/products/robocosan_1stalbum_jewelmemory_ponalbum",
+    "price": "2200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Roboco_1stALPONver_top_261027.png?v=1793161179",
+    "discoveredAt": "2026-10-30T17:12:11.786Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15466327965916",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-08-27T13:21:40.875Z",
-    "type": "news"
-  },
-  {
-    "id": "suisei-news-10062",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【追加リセール受付のお知らせ】 「HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar」神奈川公演",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10062",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-25T13:40:40.679Z",
     "type": "news"
   }
 ]
