@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15466327965916",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "-Art Selection- 癒月ちょこ",
+    "url": "https://shop.hololivepro.com/products/yuzukichoco_artselection",
+    "price": "550",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Artselection_banner_YuzukiChoco_JP_261019_ol_2.png?v=1793069938",
+    "discoveredAt": "2026-10-30T11:42:37.352Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15463446085852",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-08-25T13:40:40.679Z",
     "type": "news"
-  },
-  {
-    "id": "vspo-8487752073403",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "ソラリリコ　2周年記念2026",
-    "url": "https://store.vspo.jp/products/rikosolari-ani2nd",
-    "price": "9950",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/01_ECThumbnail_1.png?v=1787208682",
-    "discoveredAt": "2026-08-25T13:40:22.859Z",
-    "type": "shop"
   }
 ]
