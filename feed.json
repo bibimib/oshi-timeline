@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15457935425756",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "holoKitchen COOKING PROJECT",
+    "url": "https://shop.hololivepro.com/products/holokitchen_cookingproject",
+    "price": "1980",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_holoKitchen_20COOKING_20PROJECT_5th_JP_261022_2.png?v=1792748757",
+    "discoveredAt": "2026-10-31T06:37:29.107Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15466263707868",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_KikiraraVivi_BC_banner_JP_260819_ol_2.png?v=1787560265",
     "discoveredAt": "2026-08-27T16:24:34.210Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10034",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Q&A】回答を公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10034",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-27T13:21:40.875Z",
-    "type": "news"
   }
 ]
