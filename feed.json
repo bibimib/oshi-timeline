@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-15433357590715",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "蝶屋はなび　2周年記念2026",
+    "url": "https://store.vspo.jp/products/choyahanabi-ani2nd",
+    "price": "12300",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1_5c43a3cf-2d29-4f77-8b70-3ba7ab619d69.png?v=1792986537",
+    "discoveredAt": "2026-11-02T11:50:08.173Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15471012184284",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-08-30T14:06:32.471Z",
     "type": "news"
-  },
-  {
-    "id": "hololive-9584171974876",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "FUWAMOCO 1st Album『FUWAMOCO à la mode ～いつだってあなたの笑顔を守るのッ～』",
-    "url": "https://shop.hololivepro.com/products/fuwamoco_1stalbum_fuwamocoalamode",
-    "price": "15400",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260829_FUWAMOCO_1stAL_SQ01_JP.jpg?v=1787821317",
-    "discoveredAt": "2026-08-29T15:22:26.868Z",
-    "type": "shop"
   }
 ]
