@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15470919418076",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "猫又おかゆ 活動7周年記念",
+    "url": "https://shop.hololivepro.com/products/nekomataokayu_anniversary_7th",
+    "price": "15180",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_NekomataOkayu_BC_banner_JP_1027_ol_2.png?v=1793158037",
+    "discoveredAt": "2026-11-02T20:16:33.369Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-15433357590715",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-08-30T14:06:34.411Z",
-    "type": "news"
-  },
-  {
-    "id": "suisei-news-10066",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【ファンクラブ先行抽選受付】 星降る晩餐会",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10066",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-30T14:06:32.471Z",
     "type": "news"
   }
 ]
