@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15471012184284",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "HOLOSTARS English First Concert “First Light” ライブグッズ",
+    "url": "https://shop.hololivepro.com/products/holostarsenglish_firstconcert_firstlight",
+    "price": "2500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261102_HOLOSTARS_20English_1stConcert_Square_1_JP.png?v=1793169338",
+    "discoveredAt": "2026-11-02T10:04:15.182Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15471136932060",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260829_FUWAMOCO_1stAL_SQ01_JP.jpg?v=1787821317",
     "discoveredAt": "2026-08-29T15:22:26.868Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10063",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Radio】#009「推し活現場ハック」公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10063",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-28T20:29:54.400Z",
-    "type": "news"
   }
 ]
