@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15482503725276",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME エクストリーマーカップ25-26 Final Tシャツ",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_exstreamercup25-26_t-shirt",
+    "price": "4000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_EXSTREAMER_post_sales_banner_JP_260930_ol_7.png?v=1793354581",
+    "discoveredAt": "2026-11-04T17:31:23.784Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15482570244316",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-01T11:51:37.735Z",
     "type": "info"
-  },
-  {
-    "id": "suisei-news-10068",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【ファンクラブ会員限定】LIVE GOODSアプリ内でのFC会員認証について",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10068",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-01T10:48:05.684Z",
-    "type": "news"
   }
 ]
