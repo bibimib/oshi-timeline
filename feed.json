@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15474864455900",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME エクストリーマーカップ25-26 Final オフィシャルホロカスリーブセット",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_exstreamercup25-26_sleeveset",
+    "price": "1500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_EXSTREAMER_post_sales_banner_JP_260930_ol_13.png?v=1793356057",
+    "discoveredAt": "2026-11-04T17:31:33.415Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15474960531676",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_NakiriAyame_8th_JP_260901_2.png?v=1788319206",
     "discoveredAt": "2026-09-03T13:52:53.072Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10069",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Black Hole】限定動画を公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10069",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-03T12:21:51.549Z",
-    "type": "news"
   }
 ]
