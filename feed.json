@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15482632995036",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME エクストリーマーカップ25-26 Final オフィシャルダブルホロカケース",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_exstreamercup25-26_doubleholocacase",
+    "price": "2200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_EXSTREAMER_post_sales_banner_JP_260930_ol_3.png?v=1793355439",
+    "discoveredAt": "2026-11-04T17:31:20.293Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-8302f495",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "8600",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260821_hololive_YouMayHaveaGirlfriend_2_jp.jpg?v=1787637604",
     "discoveredAt": "2026-08-31T14:09:12.869Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9583354872028",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "角巻わため おしまい屋さん3D化記念グッズ",
-    "url": "https://shop.hololivepro.com/products/tsunomakiwatame_oshimaiyasan3ddebutcelebration",
-    "price": "22000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_Tsunomaki_20Watame_oshimaimerch_JP_260824_ol_2.png?v=1787563959",
-    "discoveredAt": "2026-08-31T14:09:10.751Z",
     "type": "shop"
   }
 ]
