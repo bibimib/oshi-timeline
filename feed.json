@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15474648776924",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME エクストリーマーカップ25-26 Final オフィシャルホロカアクリルカードスタンド",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_exstreamercup25-26_acryliccardstand",
+    "price": "2200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_EXSTREAMER_post_sales_banner_JP_260930_ol_17.png?v=1793356299",
+    "discoveredAt": "2026-11-04T17:31:34.980Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15474864455900",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-04T04:50:11.017Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9592005525724",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "百鬼あやめ 活動8周年記念",
-    "url": "https://shop.hololivepro.com/products/nakiriayame_anniversary_8th",
-    "price": "20900",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_NakiriAyame_8th_JP_260901_2.png?v=1788319206",
-    "discoveredAt": "2026-09-03T13:52:53.072Z",
-    "type": "shop"
   }
 ]
