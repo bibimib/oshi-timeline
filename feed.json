@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-8302f495",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【10/24予約開始】儒烏風亭らでん「アニメイトラシック福岡天神」グランドオープン宣伝大使就任記念 カオミン先生描き下ろしグッズ発売",
+    "url": "https://merch-matome.com/raden-animate/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-04T15:37:56.383Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-90cf78ff",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "22000",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_banner_Tsunomaki_20Watame_oshimaimerch_JP_260824_ol_2.png?v=1787563959",
     "discoveredAt": "2026-08-31T14:09:10.751Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9584181149916",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "カエラ・コヴァルスキア 誕生日記念2026",
-    "url": "https://shop.hololivepro.com/products/kaelakovalskia_birthday_2026",
-    "price": "13420",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_BC_banner_Kaela_20Kovalskia_JP_260825_2.png?v=1787646426",
-    "discoveredAt": "2026-08-30T17:23:49.765Z",
     "type": "shop"
   }
 ]
