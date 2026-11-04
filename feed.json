@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15474534547676",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Hakui Koyori 1st Live “Dream Spark” デジタルメッセージボード",
+    "url": "https://shop.hololivepro.com/products/hakuikoyori_1stlive_dreamspark_digitalmessageboard",
+    "price": "3000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/koyori1st_messageboard_ec_thumbnail_1500x1500_01.png?v=1793604567",
+    "discoveredAt": "2026-11-04T09:41:16.396Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-15433356869819",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": "https://hoshimachi-suisei-fc.jp/images/102/ca3/71cbe8bccecea484755218ad93ddd.jpg",
     "discoveredAt": "2026-08-30T15:00:15.475Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10065",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "「星詠み ぱじゃまぱーてぃー Vol.1」ダイジェスト映像配信スタート！ 「星詠み ぱじゃまぱーてぃー Vol.2」チケット先行スタート！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10065",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-08-30T14:06:35.873Z",
-    "type": "news"
   }
 ]
