@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-90cf78ff",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【発売中】さくらみこ スポーツ報知  2026年10月29日付",
+    "url": "https://merch-matome.com/sports-houchi261029/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-04T15:37:54.893Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-06b66089",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "13420",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_BC_banner_Kaela_20Kovalskia_JP_260825_2.png?v=1787646426",
     "discoveredAt": "2026-08-30T17:23:49.765Z",
-    "type": "shop"
-  },
-  {
-    "id": "suisei-shop-SSZS-79184",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【FC会員限定】CUSHION",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79184?ima=0014",
-    "price": "3500",
-    "image": "https://hoshimachi-suisei-fc.jp/images/102/1af/11b3b6f8e983d8617870c52bbd30e.jpg",
-    "discoveredAt": "2026-08-30T15:00:20.058Z",
     "type": "shop"
   }
 ]
