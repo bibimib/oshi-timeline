@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-06b66089",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【発売中】さくらみこ スポーツ報知  2026年10月30日付",
+    "url": "https://merch-matome.com/sports-houchi261030/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-04T15:37:53.002Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-4a9e9183",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "3500",
     "image": "https://hoshimachi-suisei-fc.jp/images/102/1af/11b3b6f8e983d8617870c52bbd30e.jpg",
     "discoveredAt": "2026-08-30T15:00:20.058Z",
-    "type": "shop"
-  },
-  {
-    "id": "suisei-shop-SSZS-79182",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【FC会員限定】SLIPPERS",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79182?ima=0014",
-    "price": "4400",
-    "image": "https://hoshimachi-suisei-fc.jp/images/102/c2f/02648df391a675af0bddba8621358.jpg",
-    "discoveredAt": "2026-08-30T15:00:18.419Z",
     "type": "shop"
   }
 ]
