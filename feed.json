@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15482407485660",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME エクストリーマーカップ25-26 Final ピンバッジセット",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_exstreamercup25-26_pinbadgeset",
+    "price": "14300",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_EXSTREAMER_post_sales_banner_JP_260930_ol_9.png?v=1793354040",
+    "discoveredAt": "2026-11-04T17:31:26.805Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15482443038940",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "3520",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Splash_T_Party_banner_JP_260805_ol_28.png?v=1787303156",
     "discoveredAt": "2026-09-01T12:47:45.011Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9547244011740",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive Splash T-Party! 事後通販",
-    "url": "https://shop.hololivepro.com/products/hololive_hololivesplashtparty",
-    "price": "3850",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Splash_T_Party_banner_JP_260805_ol_2.png?v=1787791233",
-    "discoveredAt": "2026-09-01T12:47:43.407Z",
     "type": "shop"
   }
 ]
