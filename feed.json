@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15482570244316",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME エクストリーマーカップ25-26 Final オフィシャルホロカストレージボックス",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_exstreamercup25-26_storagebox",
+    "price": "880",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_EXSTREAMER_post_sales_banner_JP_260930_ol_5.png?v=1793355343",
+    "discoveredAt": "2026-11-04T17:31:22.243Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15482632995036",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-01T10:48:05.684Z",
     "type": "news"
-  },
-  {
-    "id": "hololive-9584135995612",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ホロライブ「えー、彼女さんきびしー…」ASMRボイス",
-    "url": "https://shop.hololivepro.com/products/hololive_asmr_youmayhaveagirlfriend",
-    "price": "8600",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260821_hololive_YouMayHaveaGirlfriend_2_jp.jpg?v=1787637604",
-    "discoveredAt": "2026-08-31T14:09:12.869Z",
-    "type": "shop"
   }
 ]
