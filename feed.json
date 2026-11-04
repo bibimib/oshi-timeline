@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15474960531676",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME エクストリーマーカップ25-26 Final オフィシャルホロカサイコロ・SP推しスキルマーカーセット",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_exstreamercup25-26_diceandsposhiskillmarkerset",
+    "price": "1320",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_EXSTREAMER_post_sales_banner_JP_260930_ol_20.png?v=1793355944",
+    "discoveredAt": "2026-11-04T17:31:31.858Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15475056247004",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-03T12:21:51.549Z",
     "type": "news"
-  },
-  {
-    "id": "hololive-9588347306204",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "Sakura Miko 2nd Live “Blooming Parade!!” デジタルメッセージボード",
-    "url": "https://shop.hololivepro.com/products/sakuramiko_2ndlive_bloomingparade_digitalmessageboard",
-    "price": "3000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/miko2nd_messageboard_ec_thumbnail_1500x1500_01.png?v=1787811496",
-    "discoveredAt": "2026-09-02T09:07:48.037Z",
-    "type": "shop"
   }
 ]
