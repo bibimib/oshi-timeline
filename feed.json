@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15475056247004",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME エクストリーマーカップ25-26 Final オフィシャルホロカコレクション",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_exstreamercup25-26_holocacollection",
+    "price": "4500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_EXSTREAMER_post_sales_banner_JP_260930_ol_10.png?v=1793355574",
+    "discoveredAt": "2026-11-04T17:31:30.200Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15475080724700",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "3000",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/miko2nd_messageboard_ec_thumbnail_1500x1500_01.png?v=1787811496",
     "discoveredAt": "2026-09-02T09:07:48.037Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9588435222748",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME English Edition Extra Booster \"Summer hologram\"",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_heb01e",
-    "price": "7665",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_EB01EC_banner_EN_260804.png?v=1787803433",
-    "discoveredAt": "2026-09-02T04:48:27.722Z",
     "type": "shop"
   }
 ]
