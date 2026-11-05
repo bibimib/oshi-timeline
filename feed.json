@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10100",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【ファンクラブ限定 先着先行受付】 「星詠み ぱじゃまぱーてぃー Vol.2」＜大分公演＞",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10100",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-05T11:45:35.228Z",
+    "type": "news"
+  },
+  {
     "id": "vspo-15433357951163",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-09-07T06:18:27.958Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-7350dfbb",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】청춘은 바로 지금!（青春はまさに今！）韓国 Summer MT POP UP グッズ 白上フブキ / 大神ミオ",
-    "url": "https://merch-matome.com/seishun-fubumio/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-04T09:47:41.553Z",
     "type": "info"
   }
 ]
