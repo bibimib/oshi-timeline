@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15492606951644",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ ユーミートガールボイス",
+    "url": "https://shop.hololivepro.com/products/hololive_audiostory_whenwefirstmet",
+    "price": "8500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261106_When_We_First_Met_JP_02.png?v=1793593553",
+    "discoveredAt": "2026-11-06T10:36:06.251Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10100",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-09-08T06:08:02.041Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-35d09475",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【11/13開始】一番くじ hololive FLOW GLOW / 響咲リオナ・虎金妃笑虎・水宮枢・輪堂千速・綺々羅々ヴィヴィ",
-    "url": "https://merch-matome.com/1ban-flowglow/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-07T06:18:27.958Z",
     "type": "info"
   }
 ]
