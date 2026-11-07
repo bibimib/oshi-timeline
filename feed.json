@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10102",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "「HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar」 名古屋公演！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10102",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-07T01:30:00.261Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-15492606951644",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-09-09T06:13:19.058Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-0dd17206",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【再販・予約受付中】兎田ぺこら ねんどろいど：27年2月発売",
-    "url": "https://merch-matome.com/nendoroid_pekora/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-08T06:08:02.041Z",
     "type": "info"
   }
 ]
