@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15499142758620",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ベスティア・ゼータ 1st EP 『V/Z』",
+    "url": "https://shop.hololivepro.com/products/vestiazeta_1step_vz",
+    "price": "9900",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Zeta_1stEP_Banner02_261016.png?v=1793763036",
+    "discoveredAt": "2026-11-07T15:07:26.397Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10102",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-09-10T06:13:07.095Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-004be32f",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【発売中】星街すいせい スポーツ報知 Kアリーナ横浜 2026年9月8日・9日付",
-    "url": "https://merch-matome.com/sports-houchi260908-09/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-09T06:13:19.058Z",
     "type": "info"
   }
 ]
