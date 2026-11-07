@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15482372194524",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "獅白ぼたんとクリスマス闘nightIII",
+    "url": "https://shop.hololivepro.com/products/shishirobotan_xmas_tounight_3",
+    "price": "1000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/night3__1-1_JP.png?v=1793329426",
+    "discoveredAt": "2026-11-07T15:07:30.442Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15499051696348",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-09-11T06:16:51.052Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-c935b8a9",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【9/11予約開始】書籍『儒烏風亭らでん、芸術偏愛ことはじめ』：27年1月28日発売",
-    "url": "https://merch-matome.com/geijutsuhennai-raden/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-10T19:54:12.914Z",
     "type": "info"
   }
 ]
