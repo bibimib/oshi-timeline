@@ -1,1 +1,4 @@
 node_modules/
+
+# Claude Code の許可の記録（コマンドの文字がそのまま残る。鍵が混ざると漏れる・2026-11-08）
+.claude/settings.local.json
