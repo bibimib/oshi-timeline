@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15508081475804",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "FLOW GLOW 2周年記念",
+    "url": "https://shop.hololivepro.com/products/flowglow_anniversary_2nd",
+    "price": "1980",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_FLOWGLOW_2nd_banner_JP_260930_2.png?v=1793850957",
+    "discoveredAt": "2026-11-09T20:47:15.224Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15500549357788",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-09-15T07:55:24.785Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-6e079ada",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】博衣こより アルバム「Chemical Spark」26年12月2日発売",
-    "url": "https://merch-matome.com/koyori-chemical-spark/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-12T14:15:25.450Z",
     "type": "info"
   }
 ]
