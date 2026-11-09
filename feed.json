@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15500549357788",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロキッチン「どたばたクッキング！」ボイス",
+    "url": "https://shop.hololivepro.com/products/holokitchen_cookingproject_audiostory_whatcouldpossiblygowrong",
+    "price": "6000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20261109_WhatCouldPossiblyGoWrong_JP_2.png?v=1793791443",
+    "discoveredAt": "2026-11-09T10:15:41.603Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15500283183324",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-12T14:15:25.450Z",
     "type": "info"
-  },
-  {
-    "id": "vspo-8523968610491",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "銀城サイネ　誕生日記念2026",
-    "url": "https://store.vspo.jp/products/ginjosaine-birthday2026",
-    "price": "10500",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1_cf1433c8-e43c-4f35-a985-7bb018d2be62.png?v=1788351152",
-    "discoveredAt": "2026-09-12T13:14:44.033Z",
-    "type": "shop"
   }
 ]
