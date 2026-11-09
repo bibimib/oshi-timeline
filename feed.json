@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15500283183324",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "FLOW GLOW 2周年記念ボイス",
+    "url": "https://shop.hololivepro.com/products/flowglow_anniversary_2nd_audiostory",
+    "price": "6500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20261109_FLOW_20GLOW_202nd_20Anniversary_20Audio_20Story_JP_02.png?v=1793784861",
+    "discoveredAt": "2026-11-09T10:15:38.879Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-2e839ef5",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "10500",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1_cf1433c8-e43c-4f35-a985-7bb018d2be62.png?v=1788351152",
     "discoveredAt": "2026-09-12T13:14:44.033Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8523964711099",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "銀城サイネ　誕生日記念2026　直筆サイン入りポストカード抽選応募ページ",
-    "url": "https://store.vspo.jp/products/ginjosaine-birthday2026-postcard",
-    "price": "0",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1_de982562-71ad-4d40-b0b5-7f3d1719a086.png?v=1788351037",
-    "discoveredAt": "2026-09-11T17:59:57.434Z",
     "type": "shop"
   }
 ]
