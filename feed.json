@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-15433358082235",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "橘ひなの　誕生日記念2026　直筆サイン入りポストカード抽選応募ページ",
+    "url": "https://store.vspo.jp/products/tachibanahinano-birthday2026-postcard",
+    "price": "0",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1_6620f5b2-2d2c-496d-a74e-8541ff439d53.png?v=1793616114",
+    "discoveredAt": "2026-11-10T16:46:08.250Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15508081475804",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_Straighttype.png?v=1785824233",
     "discoveredAt": "2026-09-15T08:10:12.461Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-66c4363d",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】hololive OFFICIAL CARD GAME Ultra Pro 公式ライセンスサプライ：27年4〜6月頃発売",
-    "url": "https://merch-matome.com/ultra-pro-holoca/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-15T07:55:24.785Z",
-    "type": "info"
   }
 ]
