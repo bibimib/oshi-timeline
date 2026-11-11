@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-15433358246075",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "橘ひなの　誕生日記念2026",
+    "url": "https://store.vspo.jp/products/tachibanahinano-birthday2026",
+    "price": "9500",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1_97d7640f-3f91-44dc-ae60-265bb67bc527.png?v=1793777723",
+    "discoveredAt": "2026-11-11T18:11:49.123Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-15433358082235",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-15T13:43:16.539Z",
     "type": "info"
-  },
-  {
-    "id": "vspo-8487746699451",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "VSPO! GEAR+ キーボードケーブル",
-    "url": "https://store.vspo.jp/products/vspo-gear-keyboard-cable",
-    "price": "1200",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_Straighttype.png?v=1785824233",
-    "discoveredAt": "2026-09-15T08:10:12.461Z",
-    "type": "shop"
   }
 ]
