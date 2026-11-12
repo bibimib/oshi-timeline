@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79481",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』ご当地たこやきキーホルダー〜神戸〜",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79481?ima=4107",
+    "price": "1000",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/fa4/71c4267ee1b97fd78598bf5dbed62.jpg",
+    "discoveredAt": "2026-11-12T17:41:21.263Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79480",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260924_Watame_tieupCDbanner_01.png?v=1789715442",
     "discoveredAt": "2026-09-24T06:08:50.576Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-83320c7f",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【9月24予約開始】角巻わため New Single「リスポーン!!」：26年12月23日発売",
-    "url": "https://merch-matome.com/respawn-watame/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-23T17:19:28.435Z",
-    "type": "info"
   }
 ]
