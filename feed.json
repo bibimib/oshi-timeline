@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79475",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』シンデレラT-Shirt (横浜公演)",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79475?ima=4107",
+    "price": "6500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/fc5/0c5ce1c3312c4e2de7c896cde3f85.jpg",
+    "discoveredAt": "2026-11-12T17:41:09.742Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-86256",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-18T00:32:03.346Z",
     "type": "info"
-  },
-  {
-    "id": "vspo-8523972673723",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "藍沢エマ　5周年記念2026　直筆サイン入りポストカード抽選応募ページ",
-    "url": "https://store.vspo.jp/products/aizawaema-ani5th-postcard",
-    "price": "0",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_6423c3d4-87a2-493c-9d5e-8a68bb0eb2b0.png?v=1788949537",
-    "discoveredAt": "2026-09-17T17:53:08.584Z",
-    "type": "shop"
   }
 ]
