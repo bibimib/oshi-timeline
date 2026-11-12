@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79480",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』ご当地たこやきキーホルダー〜横浜〜",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79480?ima=4107",
+    "price": "1000",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/41c/5c06b09748204b3ff76ed27c01acf.jpg",
+    "discoveredAt": "2026-11-12T17:41:19.211Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79479",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-23T17:19:28.435Z",
     "type": "info"
-  },
-  {
-    "id": "suisei-news-10056",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Q&A】回答を公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10056",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-23T13:13:44.089Z",
-    "type": "news"
   }
 ]
