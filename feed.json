@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-77409-2",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』ランダム缶バッジ",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-77409-2?ima=4107",
+    "price": "700",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/1e3/1c0e961f0192c6552161c18987ae8.jpg",
+    "discoveredAt": "2026-11-12T17:41:44.179Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-77408-2",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "1000",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260925_hololive_PCLiveWallpaper_2_jp_png.png?v=1789721908",
     "discoveredAt": "2026-09-25T15:26:21.095Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9628554199260",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "アソビ★まわり隊！デビュー記念",
-    "url": "https://shop.hololivepro.com/products/asobimawari-tai_debut",
-    "price": "3520",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/asobi_banner_JP__2.png?v=1790231415",
-    "discoveredAt": "2026-09-25T15:26:19.762Z",
     "type": "shop"
   }
 ]
