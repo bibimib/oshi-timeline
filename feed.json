@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-77404-2",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』T-Shirt",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-77404-2?ima=4107",
+    "price": "7500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/98d/d269292d460931da966b662252fbd.jpg",
+    "discoveredAt": "2026-11-12T17:41:35.261Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79514",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-09-25T08:01:47.543Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-94b0c8d4",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】月刊ガンダムエース 2026年11月号：26年9月26日発売",
-    "url": "https://merch-matome.com/gundamace2611/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-25T08:01:45.388Z",
     "type": "info"
   }
 ]
