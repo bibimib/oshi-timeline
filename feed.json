@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79512",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』〜ときをかける すいせいのおしろ〜",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79512?ima=4107",
+    "price": "3800",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/6f1/cf39e2cf0562c3a93c1ea1244459d.jpg",
+    "discoveredAt": "2026-11-12T17:41:29.109Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79484",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "14000",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/ec_apparel_thumbnail_88247e60-0419-4578-b3c1-739168068c22.png?v=1789554551",
     "discoveredAt": "2026-09-24T13:09:05.635Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8524031262907",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "VSPO! LOOK SEASON Vol.4　Accessories",
-    "url": "https://store.vspo.jp/products/season-vol-4-accessories",
-    "price": "4000",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/ec_other_thumbnail_f83c1cf4-b0bc-4e5b-b017-2d2f57a82d76.png?v=1789554704",
-    "discoveredAt": "2026-09-24T13:09:04.181Z",
     "type": "shop"
   }
 ]
