@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-86256",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "星街すいせい メジャーデビュー記念  レコード型ウォールアート",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-86256?ima=4107",
+    "price": "20000",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/276/9680f8d988629368a0cca012e7fca.png",
+    "discoveredAt": "2026-11-12T17:41:07.598Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10103",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_6423c3d4-87a2-493c-9d5e-8a68bb0eb2b0.png?v=1788949537",
     "discoveredAt": "2026-09-17T17:53:08.584Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-69cfe2d5",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】漫画『ホロライブ学園 ～Shiny Smily Stories～』コミックス第1巻：27年1月25日発売",
-    "url": "https://merch-matome.com/hololive-gakuen-01/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-17T07:51:57.298Z",
-    "type": "info"
   }
 ]
