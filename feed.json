@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-77410-2",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』メタルキーチェーン",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-77410-2?ima=4107",
+    "price": "1500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/422/dd71a8f0cb3561820cd03b1354f55.jpg",
+    "discoveredAt": "2026-11-12T17:41:46.102Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-77409-2",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "1000",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260925_hololive_StartingVoice_HyakutoKyoko_2_jp.png?v=1789714060",
     "discoveredAt": "2026-09-25T15:26:22.235Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-9628646441180",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "アソビ★まわり隊！ PC用動く壁紙",
-    "url": "https://shop.hololivepro.com/products/asobimawari-tai_pclivewallpaper",
-    "price": "1000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260925_hololive_PCLiveWallpaper_2_jp_png.png?v=1789721908",
-    "discoveredAt": "2026-09-25T15:26:21.095Z",
     "type": "shop"
   }
 ]
