@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79476",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』シンデレラT-Shirt (神戸公演)",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79476?ima=4107",
+    "price": "6500",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/e1d/cfbbd401575a893a8fae702cb2252.jpg",
+    "discoveredAt": "2026-11-12T17:41:11.489Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79475",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_6423c3d4-87a2-493c-9d5e-8a68bb0eb2b0.png?v=1788949537",
     "discoveredAt": "2026-09-18T12:29:18.916Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-80965466",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【9/18予約開始】ホロライブぷよテト大会2026×GRAPHT グッズ",
-    "url": "https://merch-matome.com/puyoteto-grapht/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-18T00:32:03.346Z",
-    "type": "info"
   }
 ]
