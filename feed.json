@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-77406-2",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』ペンライト",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-77406-2?ima=4107",
+    "price": "5000",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/984/c4ad6cacfadc021e0a404e6c02bc3.jpg",
+    "discoveredAt": "2026-11-12T17:41:37.382Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-77404-2",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/asobi_goods_banner_JP1.png?v=1790228321",
     "discoveredAt": "2026-09-25T15:26:15.662Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-55287386",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】hololive OFFICIAL CARD GAME オフィシャルスペシャルホロカケースVol.2『ReGLOSS』：27年1月22日発売",
-    "url": "https://merch-matome.com/holoca-case-regloss/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-25T08:01:47.543Z",
-    "type": "info"
   }
 ]
