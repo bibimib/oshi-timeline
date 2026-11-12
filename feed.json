@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79483",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』ご当地たこやきキーホルダー〜福岡〜",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79483?ima=4107",
+    "price": "1000",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/23d/7cab420546b7fd47ed438589d9edb.jpg",
+    "discoveredAt": "2026-11-12T17:41:25.145Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79482",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-24T10:56:00.725Z",
     "type": "news"
-  },
-  {
-    "id": "holomatome-9ec4ecd8",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【近日予約開始】hololive OFFICIAL CARD GAME ブースターパック グローリー・エコー：26年12月18日発売",
-    "url": "https://merch-matome.com/glory-echo/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-24T10:17:05.113Z",
-    "type": "info"
   }
 ]
