@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79479",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "すいちゃんとおでかけぬいぐるみ~Once Upon a Stellar~",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79479?ima=4107",
+    "price": "4000",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/608/8670157905482c5ea54f54a0eaac8.jpg",
+    "discoveredAt": "2026-11-12T17:41:16.800Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79478",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-23T13:13:44.089Z",
     "type": "news"
-  },
-  {
-    "id": "vspo-8523980374203",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "黒刃アリヤ　誕生日記念2026",
-    "url": "https://store.vspo.jp/products/aryakuroha-birthday2026",
-    "price": "12400",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/01_ECThumbnail_2.png?v=1789616967",
-    "discoveredAt": "2026-09-22T22:31:35.675Z",
-    "type": "shop"
   }
 ]
