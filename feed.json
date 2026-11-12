@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10103",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "「HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar」 福岡公演！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10103",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-12T01:13:42.904Z",
+    "type": "news"
+  },
+  {
     "id": "vspo-15433358246075",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-09-17T07:51:57.298Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-867fd713",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【発売中】hololive OFFICIAL CARD GAME Ultra Pro 公式ライセンスサプライ スティッチドプレイマット / 星街すいせい / 小鳥遊キアラ / AZKi / ときのそら / 兎田ぺこら",
-    "url": "https://merch-matome.com/ultra-pro-holoca-mat/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-15T13:43:16.539Z",
     "type": "info"
   }
 ]
