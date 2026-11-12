@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79514",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』ショッピングバッグ",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79514?ima=4107",
+    "price": "300",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/f5d/9c2e4e2b144251c80f4c83a7769bc.jpg",
+    "discoveredAt": "2026-11-12T17:41:33.187Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79513",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-25T08:01:45.388Z",
     "type": "info"
-  },
-  {
-    "id": "vspo-8523981815995",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "八雲べに　誕生日記念2026　直筆サイン入りポストカード抽選応募ページ",
-    "url": "https://store.vspo.jp/products/yakumobeni-birthday2026-postcard",
-    "price": "0",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_5d09fd55-7d9b-401c-8bd0-d8a83b7b3bac.png?v=1789381241",
-    "discoveredAt": "2026-09-24T18:03:54.028Z",
-    "type": "shop"
   }
 ]
