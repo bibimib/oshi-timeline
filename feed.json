@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79484",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Buyee Connectをご利用の方向け】『Once Upon a Stellar』オンラインガチャ",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79484?ima=4107",
+    "price": "800",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/28a/2d36a7cfa4d92e93f47895df6c660.jpg",
+    "discoveredAt": "2026-11-12T17:41:27.074Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79483",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/ec_other_thumbnail_f83c1cf4-b0bc-4e5b-b017-2d2f57a82d76.png?v=1789554704",
     "discoveredAt": "2026-09-24T13:09:04.181Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10076",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【ファンクラブ限定 2次抽選受付】 「星詠み ぱじゃまぱーてぃー Vol.2」",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10076",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-24T10:56:00.725Z",
-    "type": "news"
   }
 ]
