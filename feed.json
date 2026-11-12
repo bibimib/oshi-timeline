@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-shop-SSZS-79482",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "『Once Upon a Stellar』ご当地たこやきキーホルダー〜名古屋〜",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/item/detail/SSZS-79482?ima=4107",
+    "price": "1000",
+    "image": "https://hoshimachi-suisei-fc.jp/images/102/4fa/95bdfb5982c89916b33a27ba47bfb.jpg",
+    "discoveredAt": "2026-11-12T17:41:23.163Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-shop-SSZS-79481",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-24T10:17:05.113Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-9621541257436",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "角巻わため 『リスポーン!!』",
-    "url": "https://shop.hololivepro.com/products/tsunomakiwatame_respawn",
-    "price": "1650",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260924_Watame_tieupCDbanner_01.png?v=1789715442",
-    "discoveredAt": "2026-09-24T06:08:50.576Z",
-    "type": "shop"
   }
 ]
