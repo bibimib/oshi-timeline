@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15493412389084",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ 日常ささやき「お手紙」ボイス",
+    "url": "https://shop.hololivepro.com/products/hololive_asmr_myfeelingsinkedonpaper",
+    "price": "19000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20261113_letter_JP_02.png?v=1793609942",
+    "discoveredAt": "2026-11-13T16:20:20.856Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15508195672284",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-28T07:10:38.007Z",
     "type": "info"
-  },
-  {
-    "id": "vspo-8523986698427",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "紫宮るな　5周年記念2026　",
-    "url": "https://store.vspo.jp/products/shinomiyaruna-ani5th",
-    "price": "13000",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_3c9a47b8-749b-4e71-a877-6d53895663e7.png?v=1789646873",
-    "discoveredAt": "2026-09-26T11:57:18.942Z",
-    "type": "shop"
   }
 ]
