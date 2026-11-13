@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15508195672284",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ホロライブ 日常ささやき「お手紙」ボイス 12月カレンダーブロマイド",
+    "url": "https://shop.hololivepro.com/products/hololive_myfeelingsinkedonpaper_decembercalendar",
+    "price": "300",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20261113_letter_calendar_photo_card_JP_02.png?v=1793854009",
+    "discoveredAt": "2026-11-13T16:20:18.599Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15519541362908",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_3c9a47b8-749b-4e71-a877-6d53895663e7.png?v=1789646873",
     "discoveredAt": "2026-09-26T11:57:18.942Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-d7a9c35d",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【近日予約開始】hololive OFFICIAL CARD GAME スタートデッキ 「推し 百灯キョーコ」「推し 熱千めら」：10月30日発売",
-    "url": "https://merch-matome.com/start-kyoko-mela/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-26T07:53:31.170Z",
-    "type": "info"
   }
 ]
