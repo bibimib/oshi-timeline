@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10104",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Radio】#013 「つい出ちゃうクセ」公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10104",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-13T12:46:27.996Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-15520010731740",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-09-25T22:34:11.994Z",
     "type": "info"
-  },
-  {
-    "id": "vspo-8523983454395",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "八雲べに　誕生日記念2026",
-    "url": "https://store.vspo.jp/products/yakumobeni-birthday2026",
-    "price": "11900",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_5d09fd55-7d9b-401c-8bd0-d8a83b7b3bac.png?v=1789381241",
-    "discoveredAt": "2026-09-25T15:40:18.128Z",
-    "type": "shop"
   }
 ]
