@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15520010731740",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【ホロプラス】Sakura Miko 2nd Live “Blooming Parade!!”さくらみこってこんな子PC壁紙",
+    "url": "https://shop.hololivepro.com/products/holoplus_sakuramiko_2ndlive_bloomingparade",
+    "price": "0",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/SakuraMiko_Live_commentBG_EC_JP.png?v=1794306925",
+    "discoveredAt": "2026-11-13T08:12:21.879Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10101",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2385,18 +2397,6 @@
     "price": "11900",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_5d09fd55-7d9b-401c-8bd0-d8a83b7b3bac.png?v=1789381241",
     "discoveredAt": "2026-09-25T15:40:18.128Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8523985289403",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "紫宮るな　5周年記念2026　直筆サイン入りポストカード抽選応募ページ",
-    "url": "https://store.vspo.jp/products/shinomiyaruna-ani5th-postcard",
-    "price": "0",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_3c9a47b8-749b-4e71-a877-6d53895663e7.png?v=1789646873",
-    "discoveredAt": "2026-09-25T15:40:16.750Z",
     "type": "shop"
   }
 ]
