@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15519617515740",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "セシリア・イマーグリーン 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/ceciliaimmergreen_birthday_2026",
+    "price": "12980",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_CeciliaImmergreen_BC_banner_JP_261030_ol_2.png?v=1794281477",
+    "discoveredAt": "2026-11-14T15:33:17.991Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15493412389084",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260918_Autumn_27sBounties_JP_2_png.png?v=1789530263",
     "discoveredAt": "2026-09-28T07:10:43.430Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-75f53103",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【近日予約開始】hololive OFFICIAL CARD GAME オフィシャルホロカアクリルカードローダー：27年1月22日発売",
-    "url": "https://merch-matome.com/acryl-loader/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-09-28T07:10:38.007Z",
-    "type": "info"
   }
 ]
