@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-f84c964e",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】GRAPHT x クリスマス闘nightⅢ 開催記念グッズ",
+    "url": "https://merch-matome.com/christmas-botan3/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-18T22:12:25.939Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-4660020c",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260924_IRyS_E3_83_A9_E3_82_A4_E3_83_95_E3_82_992_E6_AC_A1_E8_B2_A9_E5_A3_B2_E3_82_AF_E3_82_99_E3_83_83_E3_82_B9_E3_82_99_E3_83_8F_E3_82_99_E3_83_8A_E3_83_BC__E3_82_B5_E3_83_A0_E3_83_8.png?v=1791167547",
     "discoveredAt": "2026-10-06T13:14:49.345Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10057",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Q&A】回答を公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10057",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-10-06T11:40:07.999Z",
-    "type": "news"
   }
 ]
