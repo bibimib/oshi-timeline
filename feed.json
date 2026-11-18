@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15511232315612",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【事後通販】ホロライブわちゃわちゃ学園祭 ゆらゆらアクリルスタンド",
+    "url": "https://shop.hololivepro.com/products/hololive_wachawachahighschoolfestival_swingswayacrylicstand",
+    "price": "2200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/wachawacha_0909_stand_1.jpg?v=1793941090",
+    "discoveredAt": "2026-11-18T09:08:37.536Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15511343268060",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "10300",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261004_TakaneLui_JP_02.png?v=1790914631",
     "discoveredAt": "2026-10-04T13:22:17.987Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15404490129628",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【受注生産】鷹嶺ルイ1stライブ \"REBELLION\" ライブグッズ",
-    "url": "https://shop.hololivepro.com/products/takanelui_1stlive_rebellion_madetoorder",
-    "price": "3520",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261004_TakaneLui_JP_03.png?v=1790915339",
-    "discoveredAt": "2026-10-04T13:22:16.120Z",
     "type": "shop"
   }
 ]
