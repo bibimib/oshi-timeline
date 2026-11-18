@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-195819cf",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】郵便局 × 角巻わため 年賀はがき2027",
+    "url": "https://merch-matome.com/nenga-watame/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-18T22:12:27.382Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-f84c964e",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "5000",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/1_kai.png?v=1790576685",
     "discoveredAt": "2026-10-06T16:23:40.038Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15407693299932",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【2次販売】IRyS 1st Concert “HOPE ||: Beyond the Stars”ライブグッズ",
-    "url": "https://shop.hololivepro.com/products/irys_1stconcert_hopebeyondthestars_secondaryorder",
-    "price": "7500",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/260924_IRyS_E3_83_A9_E3_82_A4_E3_83_95_E3_82_992_E6_AC_A1_E8_B2_A9_E5_A3_B2_E3_82_AF_E3_82_99_E3_83_83_E3_82_B9_E3_82_99_E3_83_8F_E3_82_99_E3_83_8A_E3_83_BC__E3_82_B5_E3_83_A0_E3_83_8.png?v=1791167547",
-    "discoveredAt": "2026-10-06T13:14:49.345Z",
     "type": "shop"
   }
 ]
