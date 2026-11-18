@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-91157382",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【11/20開始】miComet COMPANY POP UP グッズ さくらみこ 星街すいせい",
+    "url": "https://merch-matome.com/micomet-company/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-18T22:12:19.868Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-90c763f7",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-10-05T07:19:02.197Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-15404650725596",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive closet ジジ・ムリン プレイフル衣装",
-    "url": "https://shop.hololivepro.com/products/gigimurin_hololivecloset_playfuloutfit",
-    "price": "1760",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.12_thumbnail_banner_JP_ol_2.png?v=1790925626",
-    "discoveredAt": "2026-10-04T23:25:18.756Z",
-    "type": "shop"
   }
 ]
