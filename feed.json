@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15520166412508",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【事後通販】ホロライブわちゃわちゃ学園祭 学生証風カード & 手帳風ケース & プリクラ風シールセット",
+    "url": "https://shop.hololivepro.com/products/hololive_wachawachahighschoolfestival_set",
+    "price": "2200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/wachawacha_1023_card_1.jpg?v=1794297994",
+    "discoveredAt": "2026-11-18T09:08:24.626Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15520355877084",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "0",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/03_thumbnail_4b70d637-ef94-472c-a7ca-dbedbe0aa059.png?v=1790310142",
     "discoveredAt": "2026-09-29T16:14:33.384Z",
-    "type": "shop"
-  },
-  {
-    "id": "vspo-8524021891259",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "Xross Stars ブースターパック第5弾『Ignition Vortex』(BOX)",
-    "url": "https://store.vspo.jp/products/xrossstars-ignitionvortex-box",
-    "price": "5700",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/EC__BP05.png?v=1789629219",
-    "discoveredAt": "2026-09-28T22:20:55.219Z",
     "type": "shop"
   }
 ]
