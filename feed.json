@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15516030271708",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【事後通販】ホロライブわちゃわちゃ学園祭 フルグラフィックTシャツ",
+    "url": "https://shop.hololivepro.com/products/hololive_wachawachahighschoolfestival_fullgraphictshirt",
+    "price": "6600",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/wachawacha_1023_full_20graphic_1.jpg?v=1794190122",
+    "discoveredAt": "2026-11-18T09:08:30.356Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15516240249052",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-10-01T07:06:14.423Z",
     "type": "news"
-  },
-  {
-    "id": "hololive-9628405694684",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ホロライブ「キミを独り占め看病」ASMRボイス",
-    "url": "https://shop.hololivepro.com/products/hololive_asmr_imusttendtoyou",
-    "price": "8000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20260930__20I_20Must_20Tend_20to_20You_JP_02.png?v=1789710065",
-    "discoveredAt": "2026-09-30T13:50:00.390Z",
-    "type": "shop"
   }
 ]
