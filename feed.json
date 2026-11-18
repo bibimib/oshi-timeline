@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15511498883292",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【事後通販】ホロライブわちゃわちゃ学園祭 イーゼル付きミニキャンバス",
+    "url": "https://shop.hololivepro.com/products/hololive_wachawachahighschoolfestival_minicanvaswitheasel",
+    "price": "1300",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/wachawacha_1023_canvas_1.jpg?v=1793947160",
+    "discoveredAt": "2026-11-18T09:08:32.011Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15516030271708",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_BC_banner_Inugami_20Korone_JP_260930_2.png?v=1790747782",
     "discoveredAt": "2026-10-01T14:45:20.039Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10077",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【リセール受付のお知らせ】 「HOSHIMACHI SUISEI ARENA TOUR 2026 Once Upon a Stellar」愛知・福岡公演",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10077",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-10-01T07:06:14.423Z",
-    "type": "news"
   }
 ]
