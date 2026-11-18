@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15511343268060",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【事後通販】ホロライブわちゃわちゃ学園祭 つながるアクリルスタンドキーホルダー",
+    "url": "https://shop.hololivepro.com/products/hololive_wachawachahighschoolfestival_connectableacrylicstandkeychain",
+    "price": "1100",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/wachawacha_0909_keychain_1.jpg?v=1793943163",
+    "discoveredAt": "2026-11-18T09:08:35.654Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15511432069340",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "3520",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261004_TakaneLui_JP_03.png?v=1790915339",
     "discoveredAt": "2026-10-04T13:22:16.120Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15397152063708",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ホロライブ ハロウィンボイス2026 〜7つの甘罪〜",
-    "url": "https://shop.hololivepro.com/products/hololive_halloween2026_sevensweetsins",
-    "price": "6000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20261002_Halloween2026_2_jp.png?v=1790565303",
-    "discoveredAt": "2026-10-02T15:04:50.453Z",
     "type": "shop"
   }
 ]
