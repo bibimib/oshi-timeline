@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-5506f358",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】月刊少年エース 2027年3月号・4月号 / ホロライブ学園 特製ラバーストラップ付録",
+    "url": "https://merch-matome.com/shonen-ace-2703_04/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-18T22:12:15.747Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-15544294605020",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "1760",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.12_thumbnail_banner_JP_ol_4.png?v=1790855467",
     "discoveredAt": "2026-10-04T23:25:17.464Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15404732842204",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive closet エリザベス・ローズ・ブラッドフレイム うたたねミントゲーマー衣装",
-    "url": "https://shop.hololivepro.com/products/elizabethrosebloodflame_hololivecloset_sleepymintygameroutfit",
-    "price": "1760",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Vol.12_thumbnail_banner_JP_ol_1.png?v=1790855654",
-    "discoveredAt": "2026-10-04T23:25:16.148Z",
     "type": "shop"
   }
 ]
