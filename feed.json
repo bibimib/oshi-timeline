@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-1a1207b9",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【再販・予約受付中】白銀ノエル 1/7スケールフィギュア／Phat!：27年6月発売",
+    "url": "https://merch-matome.com/noel-scale-figure-phat/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-18T22:12:21.337Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-91157382",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Shirakami_20Fubuki_BC_banner_JP_260918_ol_2.png?v=1790649180",
     "discoveredAt": "2026-10-05T18:13:33.838Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-70f654c8",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】ふくや × 星街すいせい",
-    "url": "https://merch-matome.com/fukui-suisei/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-10-05T07:19:02.197Z",
-    "type": "info"
   }
 ]
