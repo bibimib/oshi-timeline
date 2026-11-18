@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-094ad87c",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】星街すいせい メジャーデビューシングル『だって僕は』【特典まとめ】26年12月9日発売",
+    "url": "https://merch-matome.com/datte-bokuha/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-18T22:12:22.881Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-1a1207b9",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "2000",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/EC_677bebb7-a883-4ad4-9ece-36536f143ea1.png?v=1790850056",
     "discoveredAt": "2026-10-06T09:36:24.141Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15401431990492",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "白上フブキ 誕生日記念2026",
-    "url": "https://shop.hololivepro.com/products/shirakamifubuki_birthday_2026",
-    "price": "21560",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Shirakami_20Fubuki_BC_banner_JP_260918_ol_2.png?v=1790649180",
-    "discoveredAt": "2026-10-05T18:13:33.838Z",
     "type": "shop"
   }
 ]
