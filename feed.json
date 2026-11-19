@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15532056248540",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "Takanashi Kiara / Ninomae Ina’nis 1st Concert \"Drawn to Dawn\" Blu-ray",
+    "url": "https://shop.hololivepro.com/products/takanashikiara_ninomaeinanis_1stconcert_drawntodawn_bluray",
+    "price": "12100",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Drawn_to_Dawn_Banner_JP_3_1111.jpg?v=1794547223",
+    "discoveredAt": "2026-11-19T05:56:55.070Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15532664914140",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Baelz1st_messageboard_ec_thumbnail_1500x1500_01.png?v=1791196931",
     "discoveredAt": "2026-10-07T07:44:41.739Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-38adbd73",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【発売中】IRyS スポーツ報知  2026年10月6日付",
-    "url": "https://merch-matome.com/sports-houchi261006/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-10-07T01:41:25.102Z",
-    "type": "info"
   }
 ]
