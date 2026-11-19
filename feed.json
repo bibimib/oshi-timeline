@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15532664914140",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "【再販売】Takanashi Kiara / Ninomae Ina’nis 1st Concert \"Drawn to Dawn\"ライブグッズ",
+    "url": "https://shop.hololivepro.com/products/takanashikiara_ninomaeinanis_1stconcert_drawntodawn_resale",
+    "price": "4000",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Kiara_Ina_merch_KV_1080x1080_tsuika_JP.jpg?v=1794798922",
+    "discoveredAt": "2026-11-19T05:56:53.515Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-fe4f8fad",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": null,
     "image": null,
     "discoveredAt": "2026-10-07T01:41:25.102Z",
-    "type": "info"
-  },
-  {
-    "id": "holomatome-0caa62c9",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【発売中】IRyS スポーツ報知  2026年10月7日付",
-    "url": "https://merch-matome.com/sports-houchi261007/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-10-07T01:41:23.737Z",
     "type": "info"
   }
 ]
