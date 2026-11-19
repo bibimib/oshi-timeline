@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15544366792924",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME ブースターパック「グローリー・エコー」",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hbp10",
+    "price": "5280",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_12gatsu-item_banner_JP_261030_ol_2.png?v=1794981509",
+    "discoveredAt": "2026-11-19T15:08:49.621Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15544444420316",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "5500",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/3genlive_merch_thumbnail_square__E5_86_8D_E8_B2_A9_E5_A3_B2_E9_96_8B_E5_A7_8B_jp.png?v=1790935293",
     "discoveredAt": "2026-10-07T14:45:35.015Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15407076835548",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【ホロプラス】ねぽらぼ6周年記念「Grimoire 4♥Ever」配信の感想を大募集 感想コメント壁紙（PC用）",
-    "url": "https://shop.hololivepro.com/products/holoplus_nepolabo_6thanniversary",
-    "price": "0",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/NepolaboWeeeek_Fan_20Comment_EC_JP.jpg?v=1790831077",
-    "discoveredAt": "2026-10-07T07:44:44.600Z",
     "type": "shop"
   }
 ]
