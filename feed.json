@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-fe4f8fad",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】小鳥遊キアラ 2nd Album LPレコード 「Vogelfrei」：27年4月2日発売",
+    "url": "https://merch-matome.com/vogelfrei-lp/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-19T03:43:54.825Z",
+    "type": "info"
+  },
+  {
     "id": "holomatome-195819cf",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-10-07T01:41:23.737Z",
     "type": "info"
-  },
-  {
-    "id": "vspo-10317467943099",
-    "sourceKey": "vspo",
-    "sourceLabel": "ぶいすぽっ！",
-    "sourceColor": "#FF69B4",
-    "title": "VSPO! LOOK CLIP 会議です！TEE",
-    "url": "https://store.vspo.jp/products/vspo-look-clip-kaigidesu-tee",
-    "price": "5000",
-    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/1_kai.png?v=1790576685",
-    "discoveredAt": "2026-10-06T16:23:40.038Z",
-    "type": "shop"
   }
 ]
