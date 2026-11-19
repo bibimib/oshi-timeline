@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15544532992220",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "hololive OFFICIAL CARD GAME オフィシャルホロカケース vol.40〜vol.44",
+    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_cardcase_vol40-44",
+    "price": "880",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_12gatsu-item_banner_JP_261030_ol_4.png?v=1794809294",
+    "discoveredAt": "2026-11-19T15:08:44.908Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15532056248540",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "0",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Osaka_holoca_EC_01_JP.jpg?v=1790849640",
     "discoveredAt": "2026-10-07T07:44:43.342Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15408441426140",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "Hakos Baelz 1st Concert “REGALIA”  デジタルメッセージボード",
-    "url": "https://shop.hololivepro.com/products/hakosbaelz_1stconcert_regalia_digitalmessageboard",
-    "price": "3000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/Baelz1st_messageboard_ec_thumbnail_1500x1500_01.png?v=1791196931",
-    "discoveredAt": "2026-10-07T07:44:41.739Z",
     "type": "shop"
   }
 ]
