@@ -1,5 +1,17 @@
 [
   {
+    "id": "holomatome-40e50b32",
+    "sourceKey": "holomatome",
+    "sourceLabel": "ホロまとめ",
+    "sourceColor": "#FFD700",
+    "title": "【予約受付中】ホロライブプロダクション ウエハース vol.7：27年3月発売",
+    "url": "https://merch-matome.com/soft-cookie1/",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-20T03:37:31.736Z",
+    "type": "info"
+  },
+  {
     "id": "hololive-15544366792924",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "12100",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261007_hl3_JP2_1500X1500_1001.jpg?v=1790941213",
     "discoveredAt": "2026-10-07T14:45:37.114Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15411378782428",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "【再販売】hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜 ライブグッズ",
-    "url": "https://shop.hololivepro.com/products/hololive3rdgen_live_operationheartfulcuties_resale",
-    "price": "5500",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/3genlive_merch_thumbnail_square__E5_86_8D_E8_B2_A9_E5_A3_B2_E9_96_8B_E5_A7_8B_jp.png?v=1790935293",
-    "discoveredAt": "2026-10-07T14:45:35.015Z",
     "type": "shop"
   }
 ]
