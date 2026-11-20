@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15548083142876",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "IRyS 活動5周年記念",
+    "url": "https://shop.hololivepro.com/products/irys_anniversary_5th",
+    "price": "16500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_BC_banner_IRyS_JP_261118_ol_2.png?v=1794990329",
+    "discoveredAt": "2026-11-20T12:12:13.250Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-40e50b32",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-10-08T09:14:12.664Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-15408346562780",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive 3rd Generation Live #きゅるるん大作戦 〜最強アイドル、推すしかないでしょ〜 Blu-ray",
-    "url": "https://shop.hololivepro.com/products/hololive3rdgen_live_operationheartfulcuties_bluray",
-    "price": "12100",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/261007_hl3_JP2_1500X1500_1001.jpg?v=1790941213",
-    "discoveredAt": "2026-10-07T14:45:37.114Z",
-    "type": "shop"
   }
 ]
