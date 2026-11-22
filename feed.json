@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15552988741852",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ネリッサ・レイヴンクロフト 誕生日記念2026",
+    "url": "https://shop.hololivepro.com/products/nerissaravencroft_birthday_2026",
+    "price": "17270",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_Nerissa_20Ravencroft_BC_banner_JP_1113_2.png?v=1794967665",
+    "discoveredAt": "2026-11-22T08:44:54.281Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15548083142876",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_TokoyamiTowa_Towanohi_banner_JP_1005_ol_2.png?v=1791364419",
     "discoveredAt": "2026-10-08T13:15:54.415Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-fd01da9c",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【10/13開始】ローソン × ホロライブ 2026秋 キャンペーン 百鬼あやめ / 猫又おかゆ / 兎田ぺこら /白銀ノエル / 儒烏風亭らでん / 綺々羅々ヴィヴィ",
-    "url": "https://merch-matome.com/lawson-2026autumn/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-10-08T09:14:12.664Z",
-    "type": "info"
   }
 ]
