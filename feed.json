@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15548001419484",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "響咲リオナ 50万人記念",
+    "url": "https://shop.hololivepro.com/products/isakiriona_subscribers_500k",
+    "price": "17820",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_IsakiRiona_500k_banner_JP_261119_ol_2.png?v=1795147610",
+    "discoveredAt": "2026-11-23T10:57:52.207Z",
+    "type": "shop"
+  },
+  {
     "id": "hololive-15552988741852",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "1422",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_SD14-19EC_banner_EN_260903_6.png?v=1791251349",
     "discoveredAt": "2026-10-09T03:06:52.931Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15411483836636",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "常闇トワ トワの日記念グッズ",
-    "url": "https://shop.hololivepro.com/products/tokoyamitowa_towadaycommemorativemerch",
-    "price": "13750",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_TokoyamiTowa_Towanohi_banner_JP_1005_ol_2.png?v=1791364419",
-    "discoveredAt": "2026-10-08T13:15:54.415Z",
     "type": "shop"
   }
 ]
