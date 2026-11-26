@@ -1,5 +1,17 @@
 [
   {
+    "id": "vspo-15433359032507",
+    "sourceKey": "vspo",
+    "sourceLabel": "ぶいすぽっ！",
+    "sourceColor": "#FF69B4",
+    "title": "猫汰つな　誕生日記念2026　直筆サイン入りポストカード抽選応募ページ",
+    "url": "https://store.vspo.jp/products/nekotatsuna-birthday2026-postcard",
+    "price": "0",
+    "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1.jpg?v=1795003792",
+    "discoveredAt": "2026-11-26T16:27:27.708Z",
+    "type": "shop"
+  },
+  {
     "id": "suisei-news-10061",
     "sourceKey": "suisei",
     "sourceLabel": "星詠み",
@@ -2386,17 +2398,5 @@
     "image": null,
     "discoveredAt": "2026-10-09T09:22:36.449Z",
     "type": "info"
-  },
-  {
-    "id": "hololive-15416978931932",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME English Edition Live Start Deck Shirakami Fubuki",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd14e",
-    "price": "1422",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_SD14-19EC_banner_EN_260903_1.png?v=1791189970",
-    "discoveredAt": "2026-10-09T03:07:01.855Z",
-    "type": "shop"
   }
 ]
