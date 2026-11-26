@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15562607460572",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "ラプラス・ダークネス 活動5周年記念",
+    "url": "https://shop.hololivepro.com/products/la-darknesss_anniversary_5th",
+    "price": "13200",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_BC_banner_La_Darknesss_JP_261120_2.png?v=1795489693",
+    "discoveredAt": "2026-11-26T11:29:56.690Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-15433358803131",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2385,18 +2397,6 @@
     "price": "1422",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_SD14-19EC_banner_EN_260903_2.png?v=1791193627",
     "discoveredAt": "2026-10-09T03:06:59.777Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15417107218652",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME English Edition Live Start Deck Sakura Miko",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd16e",
-    "price": "1422",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_SD14-19EC_banner_EN_260903_3.png?v=1791195489",
-    "discoveredAt": "2026-10-09T03:06:57.886Z",
     "type": "shop"
   }
 ]
