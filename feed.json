@@ -1,5 +1,17 @@
 [
   {
+    "id": "suisei-news-10061",
+    "sourceKey": "suisei",
+    "sourceLabel": "星詠み",
+    "sourceColor": "#FF8C00",
+    "title": "【Q&A】回答を公開！",
+    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10061",
+    "price": null,
+    "image": null,
+    "discoveredAt": "2026-11-26T13:27:35.171Z",
+    "type": "news"
+  },
+  {
     "id": "hololive-15562607460572",
     "sourceKey": "hololive",
     "sourceLabel": "ホロライブ",
@@ -2385,18 +2397,6 @@
     "price": "1422",
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_SD14-19EC_banner_EN_260903_1.png?v=1791189970",
     "discoveredAt": "2026-10-09T03:07:01.855Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15417058230492",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "hololive OFFICIAL CARD GAME English Edition Live Start Deck Juufuutei Raden",
-    "url": "https://shop.hololivepro.com/products/hololiveofficialcardgame_hsd15e",
-    "price": "1422",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_OCG_SD14-19EC_banner_EN_260903_2.png?v=1791193627",
-    "discoveredAt": "2026-10-09T03:06:59.777Z",
     "type": "shop"
   }
 ]
