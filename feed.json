@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15580060352732",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "POP UP PARADE モココ・アビスガード",
+    "url": "https://shop.hololivepro.com/products/mococoabyssgard_popupparade",
+    "price": "7500",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/IMG_4767.jpg?v=1795596806",
+    "discoveredAt": "2026-11-27T03:01:49.268Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-15433359032507",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/20261009_secret_calendar_photo_card_JP_02.png?v=1790754971",
     "discoveredAt": "2026-10-09T10:25:39.033Z",
     "type": "shop"
-  },
-  {
-    "id": "holomatome-0958a4a2",
-    "sourceKey": "holomatome",
-    "sourceLabel": "ホロまとめ",
-    "sourceColor": "#FFD700",
-    "title": "【予約受付中】コンプティーク 2027年1月号 / 白銀ノエル&宝鐘マリン大特集：12月10日発売",
-    "url": "https://merch-matome.com/comptiq2701/",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-10-09T09:22:36.449Z",
-    "type": "info"
   }
 ]
