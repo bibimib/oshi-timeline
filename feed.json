@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15574940745948",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "アソビ★まわり隊！のGURU★GROOVE 02",
+    "url": "https://shop.hololivepro.com/products/asobimawari-tai_gurugroove_02",
+    "price": "3850",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_GURU_GROOVE_02_banner_JP_261118_ol_2.png?v=1795488596",
+    "discoveredAt": "2026-11-27T11:59:12.059Z",
+    "type": "shop"
+  },
+  {
     "id": "holomatome-a02ecf8d",
     "sourceKey": "holomatome",
     "sourceLabel": "ホロまとめ",
@@ -2385,18 +2397,6 @@
     "price": "0",
     "image": "https://cdn.shopify.com/s/files/1/0629/4054/5211/files/Header_1_1_7e9fc456-1656-4061-b2db-bdf7c5aaa5e5.png?v=1790911759",
     "discoveredAt": "2026-10-09T19:54:12.516Z",
-    "type": "shop"
-  },
-  {
-    "id": "hololive-15417944309980",
-    "sourceKey": "hololive",
-    "sourceLabel": "ホロライブ",
-    "sourceColor": "#00A8E0",
-    "title": "ホロライブ -Promise- 3周年記念ボイス「三人とキミのアニバーサリートリップ」",
-    "url": "https://shop.hololivepro.com/products/promise_3rdanniversaryaudiostory",
-    "price": "5000",
-    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/hololive_20-Promise-_203rd_20Anniversary_20Audio_20Story__20A_20Promising_20Trip_20for_20Three_20-_20Thumbnail_2C_20Japanese_2C_20FIX.png?v=1791256121",
-    "discoveredAt": "2026-10-09T10:25:41.947Z",
     "type": "shop"
   }
 ]
