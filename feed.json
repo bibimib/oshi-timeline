@@ -1,5 +1,17 @@
 [
   {
+    "id": "hololive-15575342743772",
+    "sourceKey": "hololive",
+    "sourceLabel": "ホロライブ",
+    "sourceColor": "#00A8E0",
+    "title": "鷹嶺ルイ 活動5周年記念",
+    "url": "https://shop.hololivepro.com/products/takanelui_anniversary_5th",
+    "price": "19250",
+    "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_TakaneLui_5th_banner_JP_1125_2.png?v=1795659964",
+    "discoveredAt": "2026-11-27T20:49:45.698Z",
+    "type": "shop"
+  },
+  {
     "id": "vspo-15433359229115",
     "sourceKey": "vspo",
     "sourceLabel": "ぶいすぽっ！",
@@ -2386,17 +2398,5 @@
     "image": "https://cdn.shopify.com/s/files/1/0529/2641/5045/files/holo_HimemoriLuna_BC_banner_JP_261007_ol_2.png?v=1791438497",
     "discoveredAt": "2026-10-10T13:35:04.110Z",
     "type": "shop"
-  },
-  {
-    "id": "suisei-news-10082",
-    "sourceKey": "suisei",
-    "sourceLabel": "星詠み",
-    "sourceColor": "#FF8C00",
-    "title": "【Radio】#011「夏の答え合わせ」公開！",
-    "url": "https://hoshimachi-suisei-fc.jp/s/hs/news/detail/10082",
-    "price": null,
-    "image": null,
-    "discoveredAt": "2026-10-10T13:12:41.762Z",
-    "type": "news"
   }
 ]
